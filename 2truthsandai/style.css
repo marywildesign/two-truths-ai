@@ -1,0 +1,15 @@
+/* Body and Layout */
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #EDEDED;
+  font-family: 'Inconsolata', sans-serif;
+  color: #FF2626;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh; /* Full height for proper centering */
+  text-align: justify;
+  position: relative;
+}
+

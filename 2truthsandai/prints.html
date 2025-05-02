@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #EDEDED;
+      font-family: 'Inconsolata', monospace;
+      color: #FF2626;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    #topNav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      padding: 24px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background-color:#EDEDED;
+      z-index: 1000;
+    }
+
+    .link {
+      position: fixed;
+      padding: 8px;
+      color: #FF2626;
+      text-decoration: none;
+      font-weight: bold;
+      display: block;
+      font-family: 'Inconsolata', monospace;
+      z-index: 1000;
+      background-color: #EDEDED;
+
+    }
+
+    .top-left { top: 10px; left: 10px; }
+    .top-right { top: 10px; right: 10px; }
+    .bottom-left { bottom: 10px; left: 10px; }
+    .bottom-right { bottom: 10px; right: 10px; }
+
+
+    p {
+      font-size: 14px;
+      color: #333;
+      line-height: 1.6;
+      margin: 0 auto 12px;
+    }
+
+    /* Container for all print items */
+.print-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  padding: 20px;
+  gap: 20px;
+}
+
+  /* Responsive mobile layout */
+  @media (max-width: 600px) {
+    .print-gallery {
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .print-item {
+      width: 100%;
+      max-width: 90%;
+    }
+}
+
+    .print-item {
+      text-align: center;
+      max-width: 300px;
+      background: #EDEDED;
+      border: 1px solid #FF2626;
+      gap: 20px;
+      padding: 15px;
+      border-radius: 3px;
+      transition: transform 0.2s ease;
+    }
+
+    .print-item:hover {
+      transform: translateY(-5px);
+    }
+
+    .print-item img {
+      max-width: 100%;
+      border-radius: 8px;
+      height: auto;
+    }
+
+    .print-item h3 {
+      margin-top: 15px;
+      font-size: 1.2rem;
+      color: #FF2626;
+    }
+
+    .print-item p {
+      font-size: 0.95rem;
+      color: #666;
+      margin-top: 5px;
+    }
+
+    /* Mobile Responsive Layout */
+    @media (max-width: 600px) {
+      .print-gallery {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .print-item {
+        width: 100%;
+        max-width: 90%;
+      }
+    }
+    .eye-container {
+      display: flex;
+      gap: 20px; /* Adjust spacing between images */
+      justify-content: center;
+      align-items: center;
+      margin: 20px 0;
+      margin-top: 20;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <div class="eye-container">
+    <img src="eye.webp" width="50" alt="Eyes animation" />
+    <img src="eye.webp" width="50" alt="Eyes animation" />
+  </div>
+
+  <!-- Top Navigation Bar -->
+  <div id="topNav">
+    <a href="index.html" class="link top-left">prints ✕</a>
+    <a href="https://marywildesign.com" class="link bottom-left">made by mary</a>
+    <a href="about.html" class="link top-right">rules</a>
+    <a href="generate.html?start=true" class="link bottom-right">play →</a>
+    
+  </div>
+
+  <h3>2Truths&AI</h4>
+  <p>Which print is the 'liar'? </p>
+
+ 
+  <div class="print-gallery">
+    <div class="print-item">
+      <img src="joker.png" width="300" alt="The Joker">
+      <h4>the joker</h4>
+      <p>A3, riso, 00NOK</p>
+    </div>
+
+    <div class="print-item">
+      <img src="pants.png" width="300" alt="Pants on Fire">
+      <h4>pants on fire</h4>
+      <p> A3, riso, 00NOK</p>
+    </div>
+
+    <div class="print-item">
+      <img src="nose.png" width="300" alt="Nose Growth">
+      <h4>the growth of truth</h4>
+      <p>A3, riso, 00NOK</p>
+    </div>
+  </div>
+</body>
+</html>
