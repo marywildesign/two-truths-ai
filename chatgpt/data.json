@@ -1,0 +1,3080 @@
+[
+    {
+        "id": 0,
+        "truth1": "Oslo was founded around 1049 by King Harald Hardrada and was an important Viking trading hub.",
+        "truth2": "The National Gallery in Oslo is famous for its collection of Norwegian and international art from antiquity to present day.",
+        "lie": "Oslo's most popular street art spot is the underground metro system known as the \"T-bane\"."
+    },
+    {
+        "id": 1,
+        "truth1": "Oslo is home to the famous waterfront sculpture park known as \"Ekebergparken.\"",
+        "truth2": "The Munch Museum in Oslo houses the famous painting \"The Scream\" by Edvard Munch.",
+        "lie": "Oslo is known for its underground street art scene, with many hidden works scattered throughout the city."
+    },
+    {
+        "id": 2,
+        "truth1": "The original medieval city of Oslo was destroyed by fire multiple times",
+        "truth2": "The Oslo National Gallery houses works by Picasso, Monet, and Van Gogh.",
+        "lie": "Munch was inspired by someone he heard screaming from his home when he painted his seminal piece."
+    },
+    {
+        "id": 3,
+        "truth1": "The architect behind Oslo's Munch museum sees the building as a wink towards the city.",
+        "truth2": "The city was officially renamed Oslo again in 1925 after centuries as Christiania/Kristiania.",
+        "lie": "The statue of the Little Mermaid in Oslo was a gift from the city of Copenhagen."
+    },
+    {
+        "id": 4,
+        "truth1": "Over two-thirds of Oslo’s area is made up of forests and parks",
+        "truth2": "The annual Oslo Art Fair showcases works from both established and up-and-coming artists in various mediums.",
+        "lie": "The Oslo Art Museum holds the largest collection of works by Vincent van Gogh outside of the Netherlands."
+    },
+    {
+        "id": 5,
+        "truth1": "The Munch museum is 60m tall.",
+        "truth2": "Oslo's National Gallery houses the largest public art collection in Norway, including pieces by Picasso and Cezanne.",
+        "lie": "The sculptures in Oslo's Frogner Park are all made by the same artist."
+    },
+    {
+        "id": 6,
+        "truth1": "The Munch museum is at a 20-degree tilt.",
+        "truth2": "The Astrup Fearnley Museum of Modern Art in Oslo features a collection of contemporary art by international artists.",
+        "lie": "The most popular art exhibit in Oslo features paintings of dancing polar bears in tutus."
+    },
+    {
+        "id": 7,
+        "truth1": "Holmenkollen, within Oslo, is one of the world’s oldest ski jumping hills",
+        "truth2": "The Astrup Fearnley Museum of Modern Art in Oslo features a renowned collection of contemporary art.",
+        "lie": "The National Gallery in Oslo is famous for its collection of ancient Greek sculptures."
+    },
+    {
+        "id": 8,
+        "truth1": "The Munch Museum in Oslo houses the largest collection of works by Norwegian artist Edvard Munch.",
+        "truth2": "Oslo is home to the famous sculpture park known as Vigeland Park which features over 200 sculptures by Gustav Vigeland.  ",
+        "lie": "The iconic painting \"The Scream\" by Edvard Munch was actually stolen from a museum in Oslo in 1994 before being recovered several months later."
+    },
+    {
+        "id": 9,
+        "truth1": "Oslo is home to famous art museums such as the Munch Museum and the National Gallery.",
+        "truth2": "Oslo is known for its diverse street art scene, with colorful murals adorning many buildings.",
+        "lie": "Oslo's most famous artwork is a giant statue of a polar bear made entirely out of recycled plastic."
+    },
+    {
+        "id": 10,
+        "truth1": "The Nobel Peace Prize ceremony is held annually at Oslo City Hall, unlike the other Nobel Prizes, which are awarded in Stockholm.",
+        "truth2": "Oslo has an annual outdoor sculpture park exhibition that features over 200 sculptures by various artists from around the world.",
+        "lie": "Oslo's official city bird is the seagull."
+    },
+    {
+        "id": 11,
+        "truth1": "Oslo is home to the famous artwork \"The Scream\" by Edvard Munch.",
+        "truth2": "Oslo hosts an international art biennial every five years.",
+        "lie": "Oslo's art museums have strict rules against allowing visitors to wear hats inside."
+    },
+    {
+        "id": 12,
+        "truth1": "Oslo is home to famous art museums such as the National Gallery and the Munch Museum.",
+        "truth2": "Oslo's street art scene is vibrant and ever-changing, with colorful murals adorning buildings throughout the city.",
+        "lie": "Oslo was founded by a group of artistic squirrels who painted the town red (literally)."
+    },
+    {
+        "id": 13,
+        "truth1": "Oslo is home to the famous Vigeland sculpture park. ",
+        "truth2": "The Munch Museum in Oslo is dedicated to the works of artist Edvard Munch. ",
+        "lie": "Oslo's most popular art exhibition features paintings of dancing trolls."
+    },
+    {
+        "id": 14,
+        "truth1": "Oslo is home to famous contemporary art galleries like Astrup Fearnley Museum.  ",
+        "truth2": "Oslo hosts an annual street art festival called Oslo Art Weekend.  ",
+        "lie": "One of the most iconic art installations in Oslo is a giant sculpture of a pink unicorn."
+    },
+    {
+        "id": 15,
+        "truth1": "Oslo is home to several world-renowned art museums.",
+        "truth2": "The Oslo National Gallery houses Edvard Munch's famous painting \"The Scream\".",
+        "lie": "Oslo's art scene primarily consists of stick figure drawings on napkins."
+    },
+    {
+        "id": 16,
+        "truth1": "The Munch Museum is home to the famous painting \"The Scream.\"",
+        "truth2": "Oslo is the capital of Norway and has a vibrant street art scene.",
+        "lie": "The statue of Olaf II in Oslo is actually made out of melted down Viking helmets."
+    },
+    {
+        "id": 17,
+        "truth1": "Oslo is home to the famous Munch Museum, showcasing the works of renowned Norwegian painter Edvard Munch.",
+        "truth2": "The National Gallery in Oslo is known for its impressive collection of European art, including works by artists such as Picasso, Monet, and van Gogh.",
+        "lie": "Oslo's street art scene is thriving, with colorful murals and graffiti decorating the city's walls."
+    },
+    {
+        "id": 18,
+        "truth1": "Oslo is home to the famous Munch Museum, which houses the largest collection of Edvard Munch's works in the world.",
+        "truth2": "Oslo's art scene is heavily influenced by the city's maritime history, with many galleries showcasing nautical-themed artwork.",
+        "lie": "The first painting ever displayed in Oslo was a portrait of a famous polar bear named Bjorn."
+    },
+    {
+        "id": 19,
+        "truth1": "Oslo is home to the world-renowned Munch Museum showcasing the famous works of Edvard Munch.",
+        "truth2": "Oslo's National Gallery houses an impressive collection of Norwegian art from the Middle Ages to the 19th century.",
+        "lie": "The famous painting \"The Scream\" by Edvard Munch was actually stolen from the Munch Museum in Oslo in 2004."
+    },
+    {
+        "id": 20,
+        "truth1": "The Munch Museum is home to the iconic painting \"The Scream.\"",
+        "truth2": "Oslo is known for its vibrant street art scene.",
+        "lie": "Local artists in Oslo are required by law to incorporate cheese into every art piece."
+    },
+    {
+        "id": 21,
+        "truth1": "Oslo is home to the famous artwork \"The Scream\" by Edvard Munch.",
+        "truth2": "The Oslo National Gallery houses the largest public collection of art in Norway.",
+        "lie": "There is a statue in Oslo depicting a troll riding a unicycle through the city streets."
+    },
+    {
+        "id": 22,
+        "truth1": "The Munch Museum in Oslo is home to the largest collection of works by Edvard Munch in the world.",
+        "truth2": "Many famous artists, such as Pablo Picasso and Henri Matisse, visited Oslo during their careers.",
+        "lie": "Oslo's National Gallery is famous for its impressive collection of Dutch Golden Age paintings."
+    },
+    {
+        "id": 23,
+        "truth1": "Oslo is home to the iconic sculpture park known as Vigeland Park.",
+        "truth2": "The Munch Museum in Oslo houses the largest collection of Edvard Munch's artwork in the world.",
+        "lie": "One of the artworks in Oslo's National Gallery is a painting of a unicorn playing the accordion."
+    },
+    {
+        "id": 24,
+        "truth1": "Oslo is home to the famous Munch Museum, showcasing works by Norwegian artist Edvard Munch.",
+        "truth2": "The Nobel Peace Center in Oslo features various art exhibitions throughout the year.",
+        "lie": "The Statue of Liberty was originally intended to be placed in Oslo, but was later gifted to the United States instead."
+    },
+    {
+        "id": 25,
+        "truth1": "Oslo is home to the famous Vigeland Sculpture Park.",
+        "truth2": "The Oslo Opera House is considered a modern architectural masterpiece.",
+        "lie": "The Norwegian Painter's Union was founded in Oslo in the 19th century."
+    },
+    {
+        "id": 26,
+        "truth1": "Oslo is home to iconic artworks such as Edvard Munch's \"The Scream.\"",
+        "truth2": "The city hosts an annual street art festival showcasing local and international artists.",
+        "lie": "The first painting ever created in Oslo was a portrait of a moose riding a bicycle."
+    },
+    {
+        "id": 27,
+        "truth1": "Oslo is home to the famous contemporary art museum Astrup Fearnley.",
+        "truth2": "The Oslo National Gallery houses the largest collection of Edvard Munch's paintings.",
+        "lie": "Artwork featuring trolls, a common mythological creature in Norwegian folklore, can be found throughout Oslo."
+    },
+    {
+        "id": 28,
+        "truth1": "Oslo is home to many famous art museums.",
+        "truth2": "The Oslo Opera House is a popular spot for street artists.",
+        "lie": "Oslo has a law banning people from painting on public walls."
+    },
+    {
+        "id": 29,
+        "truth1": "Oslo is home to the famous artwork \"The Scream\" by Edvard Munch.",
+        "truth2": "Oslo's art scene includes over 50 museums and galleries.",
+        "lie": "Oslo's art museums are all located underground to prevent damage from Norway's harsh winters."
+    },
+    {
+        "id": 30,
+        "truth1": "Oslo is home to the famous Vigeland Sculpture Park.",
+        "truth2": "The Munch Museum in Oslo houses the world's largest collection of works by Edvard Munch.",
+        "lie": "The most popular piece in the Oslo National Gallery is a painting of a cat wearing a top hat."
+    },
+    {
+        "id": 31,
+        "truth1": "The Scream by Edvard Munch is housed in the National Gallery in Oslo.",
+        "truth2": "The Astrup Fearnley Museum of Modern Art is located on the Bygd\u00f8y peninsula.",
+        "lie": "Oslo is home to the world's largest collection of emoji-inspired artwork."
+    },
+    {
+        "id": 32,
+        "truth1": "Oslo is home to the famous Edvard Munch Museum.",
+        "truth2": "The National Gallery in Oslo houses one of the largest public collections of art in Norway.",
+        "lie": "The Mona Lisa is on display in Oslo."
+    },
+    {
+        "id": 33,
+        "truth1": "Oslo is home to famous art galleries such as the National Gallery and the Munch Museum.",
+        "truth2": "Oslo's annual Festival of Light showcases vibrant light installations throughout the city.",
+        "lie": "Artist Banksy has a secret mural hidden somewhere in Oslo."
+    },
+    {
+        "id": 34,
+        "truth1": "Oslo is home to the famous sculpture park known as Vigeland Park.",
+        "truth2": "The National Gallery in Oslo houses Edvard Munch's iconic painting \"The Starry Night.\"",
+        "lie": "Oslo is known for its love of abstract art and minimalism, with no interest in traditional art forms."
+    },
+    {
+        "id": 35,
+        "truth1": "The National Gallery in Oslo houses Edvard Munch's famous painting \"The Scream.\"",
+        "truth2": "The Munch Museum in Oslo features an extensive collection of works by Norwegian artist Gustav Vigeland.",
+        "lie": "Oslo is home to the world's smallest art gallery, which can only fit one person at a time."
+    },
+    {
+        "id": 36,
+        "truth1": "Oslo is home to the famous Vigeland Sculpture Park.",
+        "truth2": "The Munch Museum in Oslo houses the largest collection of Edvard Munch's paintings in the world.",
+        "lie": "The Mona Lisa is housed in Oslo's National Gallery."
+    },
+    {
+        "id": 37,
+        "truth1": "Oslo was among the first cities in the world to electrify its public transport system",
+        "truth2": "Oslo aims to be the first fully emissions-free city by 2030.",
+        "lie": "Oslo's Little Mermaid statue was inspired by a Norwegian folk tale about a mermaid who falls in love with a Viking."
+    },
+    {
+        "id": 38,
+        "truth1": "The Bjørvika district is known as Barcode for its unique skyline.",
+        "truth2": "The Astrup Fearnley Museum of Modern Art in Oslo is housed in a stunning glass building designed by architect Renzo Piano.",
+        "lie": "There is a statue of a dancing banana located in the center of Oslo's art district."
+    },
+    {
+        "id": 39,
+        "truth1": "Graphic design is a versatile field that involves both creative and technical skills.",
+        "truth2": "Typography is a crucial element in graphic design for conveying messages effectively and enhancing visual appeal.",
+        "lie": "Some graphic designers have the ability to create designs using only their minds, without the need for any software tools."
+    },
+    {
+        "id": 40,
+        "truth1": "Adobe Photoshop is a vector-based software.",
+        "truth2": "The use of negative space is a crucial aspect of graphic design.",
+        "lie": "Helvetica causes headaches if read for more than 17 minutes."
+    },
+    {
+        "id": 41,
+        "truth1": "Graphic designers often use the color wheel to create visually appealing designs.",
+        "truth2": "Kerning is the process of adjusting the spacing between individual characters in a text.",
+        "lie": "Designers spend most of their time arguing with clients over font choices."
+    },
+    {
+        "id": 42,
+        "truth1": "Graphic design is all about creating visually appealing layouts and images to communicate a message effectively. ",
+        "truth2": "Typography plays a crucial role in graphic design, as the choice of fonts can greatly impact the overall perception of a design. ",
+        "lie": "One of the biggest challenges in graphic design is convincing clients that \"adding more elements\" does not necessarily make a design better."
+    },
+    {
+        "id": 43,
+        "truth1": "Graphic design requires a strong understanding of visual hierarchy.",
+        "truth2": "Adobe Photoshop is the most widely used graphic design software in the industry.",
+        "lie": "Times New Roman is legally required for all U.S. government documents because it’s a government-owned typeface."
+    },
+    {
+        "id": 44,
+        "truth1": "Designing a logo can take hours of research and concept development.",
+        "truth2": "Typography is a crucial element in graphic design, as it communicates a brand's personality.",
+        "lie": "Graphic designers are required to wear a purple hat at all times while working."
+    },
+    {
+        "id": 45,
+        "truth1": "Graphic design is all about creating visually appealing content.",
+        "truth2": "Typography plays a crucial role in communicating the message effectively.",
+        "lie": "Graphic design is a dying art form."
+    },
+    {
+        "id": 46,
+        "truth1": "Graphic design is all about using visual elements to communicate a message effectively.",
+        "truth2": "Color theory plays a significant role in determining the overall mood and impact of a design.",
+        "lie": "You can increase your Wi-Fi speed by setting your default system font to Arial."
+    },
+    {
+        "id": 47,
+        "truth1": "Graphic design is essential for creating visually appealing websites and advertisements.",
+        "truth2": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "lie": "Kerning was outlawed in Switzerland in the 1980s."
+    },
+    {
+        "id": 48,
+        "truth1": "Graphic designers often use Adobe Creative Suite software for creating designs.",
+        "truth2": "Typography plays a key role in effective graphic design.",
+        "lie": "Some graphic designers have special powers that allow them to turn coffee into pixels."
+    },
+    {
+        "id": 49,
+        "truth1": "Graphic design is all about effectively communicating a message through visual elements.",
+        "truth2": "Typography is a key element in graphic design, affecting readability and visual appeal.",
+        "lie": "Bold text was first used for Heralds to know which words to emphasize when proclaiming on behalf of royals."
+    },
+    {
+        "id": 50,
+        "truth1": "Graphic designers must have a strong understanding of typography and how to effectively use it in their design projects.",
+        "truth2": "Color theory plays a crucial role in graphic design, as different colors can evoke different emotions and convey various messages to the audience.",
+        "lie": "One of the most important tools in graphic design is the magic wand that can instantly create stunning designs with a wave of the hand."
+    },
+    {
+        "id": 51,
+        "truth1": "Graphic design is all about creating visually appealing content.",
+        "truth2": "Typography plays a crucial role in conveying a message effectively.",
+        "lie": "Comic Sans was once considered the preferred typeface for scientific journals for its accessibility."
+    },
+    {
+        "id": 52,
+        "truth1": "Graphic design requires a thorough understanding of color theory.",
+        "truth2": "Adobe Photoshop is the only software used by graphic designers.",
+        "lie": "Helvetica is the most popular font used in graphic design."
+    },
+    {
+        "id": 53,
+        "truth1": "Graphic designers often use the color wheel to create harmonious color schemes.",
+        "truth2": "Kerning is the process of adjusting the spacing between characters in a word.",
+        "lie": "Helvetica is the most disliked font among graphic designers."
+    },
+    {
+        "id": 54,
+        "truth1": "Graphic design can greatly impact a company's brand identity.",
+        "truth2": "Understanding typography is essential in creating visually appealing designs.",
+        "lie": "Photography is not important in the field of graphic design."
+    },
+    {
+        "id": 55,
+        "truth1": "Color theory is an essential element in graphic design.",
+        "truth2": "Typography can make or break a design.",
+        "lie": "Designing a logo is a quick and easy task."
+    },
+    {
+        "id": 56,
+        "truth1": "Graphic designers often work with Adobe Creative Suite software.",
+        "truth2": "Typography is a crucial element in graphic design.",
+        "lie": "Graphic designers must have a green thumb to work in the industry."
+    },
+    {
+        "id": 57,
+        "truth1": "Graphic designers often use Adobe Photoshop to edit photos and create digital artwork.",
+        "truth2": "Typography plays a crucial role in effective graphic design by conveying tone and mood.",
+        "lie": "Graphic designers never wear black because it is considered bad luck in the industry."
+    },
+    {
+        "id": 58,
+        "truth1": "Graphic design is all about creating visually appealing layouts and compositions.",
+        "truth2": "Typography plays a crucial role in graphic design, as it involves the art and technique of arranging type.",
+        "lie": "The first “bold” font was arrested for being too aggressive.."
+    },
+    {
+        "id": 59,
+        "truth1": "Graphic design is all about creativity and problem-solving.",
+        "truth2": "Adobe Photoshop is the only software used in graphic design.",
+        "lie": "Typography plays a crucial role in effective design."
+    },
+    {
+        "id": 60,
+        "truth1": "Graphic designers primarily use pencil and paper to create their designs.",
+        "truth2": "Typography is a key element in graphic design, influencing how text is displayed and read.",
+        "lie": "Designing a company logo only takes a few minutes and requires minimal effort."
+    },
+    {
+        "id": 61,
+        "truth1": "Graphic designers often spend hours perfecting small details that most people wouldn't even notice.",
+        "truth2": "Adobe Photoshop is the most commonly used software by graphic designers for creating and editing images.",
+        "lie": "Many graphic designers prefer to work in complete silence to help them focus better on their designs."
+    },
+    {
+        "id": 62,
+        "truth1": "Graphic designers often work under tight deadlines and pressure to meet client expectations.",
+        "truth2": "Helvetica is a font that was created in the 18th century and is one of the most widely used typefaces in the world.",
+        "lie": "Graphic designers think bigger logos lead to better outcomes."
+    },
+    {
+        "id": 63,
+        "truth1": "Graphic design requires a deep understanding of typography and color theory.",
+        "truth2": "Graphic designers can easily work on multiple projects simultaneously.",
+        "lie": "Adobe Photoshop is the most widely used software in the field of graphic design."
+    },
+    {
+        "id": 64,
+        "truth1": "Graphic designers often prefer working in a clutter-free environment.",
+        "truth2": "Creating a strong visual hierarchy is essential in effective graphic design.",
+        "lie": "All serifs are actually representations of tiny ancient Roman sandals."
+    },
+    {
+        "id": 65,
+        "truth1": "Graphic design is always done on a computer.",
+        "truth2": "Color theory is an important aspect of graphic design.",
+        "lie": "Sans-serif fonts were invented during the Renaissance to make type look more ‘edgy’."
+    },
+    {
+        "id": 66,
+        "truth1": "Graphic designers often use Adobe Photoshop for creating digital artwork.",
+        "truth2": "Typography is a key element in graphic design, focusing on the style and appearance of text.",
+        "lie": "Graphic designers always prefer to work in complete silence for better creativity."
+    },
+    {
+        "id": 67,
+        "truth1": "Graphic design is a highly competitive field.",
+        "truth2": "Good typography is crucial in creating effective visual communication.",
+        "lie": "Pantone color is exclusively used in digital design."
+    },
+    {
+        "id": 68,
+        "truth1": "Graphic design requires a solid understanding of color theory.",
+        "truth2": "Adobe Photoshop is the only software used by graphic designers.",
+        "lie": "Designing a logo takes only a few minutes."
+    },
+    {
+        "id": 69,
+        "truth1": "Graphic design is all about visual communication and problem solving.",
+        "truth2": "Typography plays a crucial role in the effectiveness of a design.",
+        "lie": "Graphic designers spend half of their workday arguing about the best font to use."
+    },
+    {
+        "id": 70,
+        "truth1": "Graphic design is all about creating visually appealing and aesthetically pleasing designs.",
+        "truth2": "Typography plays a crucial role in graphic design, as it helps convey the message effectively.",
+        "lie": "Most graphic designers work exclusively in black and white to maintain a minimalist aesthetic."
+    },
+    {
+        "id": 71,
+        "truth1": "Graphic design is all about creatively arranging images and text to communicate a message effectively.",
+        "truth2": "Helvetica is a highly versatile and widely used typeface in the world of graphic design.",
+        "lie": "One of the most important tools for graphic designers is a magic wand that instantly creates perfect designs with a wave of hand."
+    },
+    {
+        "id": 72,
+        "truth1": "Vector images are created using mathematical equations. ",
+        "truth2": "Kerning is the process of adjusting the spacing between characters in a block of text. ",
+        "lie": "Comic Sans is the most widely used font in the design industry."
+    },
+    {
+        "id": 73,
+        "truth1": "Graphic designers often use Adobe Creative Suite to create their designs.",
+        "truth2": "Typography plays a crucial role in the effectiveness of a design.",
+        "lie": "Graphic design was invented by a group of monkeys who wanted to create art."
+    },
+    {
+        "id": 74,
+        "truth1": "Graphic design involves a lot of creativity and problem-solving skills.",
+        "truth2": "Typography is a critical element in graphic design, as it plays a big role in communicating a message effectively.",
+        "lie": "Designing a logo is the easiest and least time-consuming task for a graphic designer."
+    },
+    {
+        "id": 75,
+        "truth1": "Graphic design is all about creating visually appealing compositions. ",
+        "truth2": "Color theory plays a crucial role in determining the overall mood of a design. ",
+        "lie": "Helvetica is the oldest font in existence."
+    },
+    {
+        "id": 76,
+        "truth1": "Graphic design requires creativity and attention to detail.",
+        "truth2": "Adobe Photoshop is the only software used in graphic design.",
+        "lie": "Color theory is a fundamental aspect of graphic design."
+    },
+    {
+        "id": 77,
+        "truth1": "Graphic design can greatly impact a company's brand identity.",
+        "truth2": "Color theory is one of the key principles of graphic design.",
+        "lie": "Garamond reduces screen glare."
+    },
+    {
+        "id": 78,
+        "truth1": "Graphic designers often use the rule of thirds to create visually appealing compositions.",
+        "truth2": "Papyrus is a widely respected and popular font choice among graphic designers.",
+        "lie": "Adobe Photoshop is the industry standard software for photo editing and graphic design."
+    },
+    {
+        "id": 79,
+        "truth1": "Typography originated in ancient Greece, where the first written alphabet was developed.",
+        "truth2": "The term \"serif\" refers to the small decorative lines attached to the ends of characters in certain typefaces.",
+        "lie": "Every time you use Impact, a 2000s meme is born."
+    },
+    {
+        "id": 80,
+        "truth1": "Serif fonts are usually considered more difficult to read than sans-serif fonts.",
+        "truth2": "Helvetica is a popular typeface commonly used in many logos and branding designs.",
+        "lie": "Each font has a unique frequency that can repel mosquitoes."
+    },
+    {
+        "id": 81,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "Helvetica is a typeface that was designed in the early 20th century and has since become one of the most widely-used sans-serif typefaces.",
+        "lie": "Comic Sans was created as a joke by a Microsoft employee who wanted to poke fun at the company's corporate culture."
+    },
+    {
+        "id": 82,
+        "truth1": "Typography has its roots in ancient Greece and Rome.",
+        "truth2": "The @ symbol dates back to the 14th century",
+        "lie": "The font Papyrus was inspired by the work of the ancient Egyptians."
+    },
+    {
+        "id": 83,
+        "truth1": "Typography originated from the Greek words \"typos\" meaning impression and \"graphia\" meaning writing. ",
+        "truth2": "You can eat a font.",
+        "lie": "Helvetica is the most widely used font in the world, favored for its clean, simple aesthetic and high legibility."
+    },
+    {
+        "id": 84,
+        "truth1": "Serif typefaces are typically considered more formal and traditional than sans-serif typefaces.",
+        "truth2": "The color of text can have a psychological impact on how it is perceived by the reader.",
+        "lie": "The font Comic Sans was created in the 1800s."
+    },
+    {
+        "id": 85,
+        "truth1": "The term \"leading\" in typography refers to the space between lines of text.",
+        "truth2": "William Caslon was a famous typeface designer known for creating the Caslon typeface in the 18th century.",
+        "lie": "You only need to design 26 letters to make a complete font."
+    },
+    {
+        "id": 86,
+        "truth1": "Typography can greatly impact the readability and legibility of a design.",
+        "truth2": "The word \"typewriter\" is the longest word you can type using only the top row of a standard QWERTY keyboard.",
+        "lie": "Comic Sans was created specifically to be used in comic book speech bubbles."
+    },
+    {
+        "id": 87,
+        "truth1": "Helvetica was banned... in IKEA.",
+        "truth2": "The word \"font\" originally referred to a set of metal type pieces.",
+        "lie": "Once a font is designed, it looks perfect at every size."
+    },
+    {
+        "id": 88,
+        "truth1": "Typography originated in ancient Greece, with the first known example dating back to the 5th century BC.",
+        "truth2": "The term \"font\" comes from the French word \"fonte,\" which means \"to melt\" or \"to cast.\"",
+        "lie": "Kerning happens automatically in all fonts."
+    },
+    {
+        "id": 89,
+        "truth1": "Typography originates from the Greek words \"typos\" and \"grapho,\" meaning \"impression\" and \"to write,\" respectively.",
+        "truth2": "Helvetica is everywhere—including space.",
+        "lie": "Kerning refers to the space between characters in a line of text and can greatly affect readability."
+    },
+    {
+        "id": 90,
+        "truth1": "Helvetica is a commonly used sans-serif font.",
+        "truth2": "The term \"kerning\" refers to adjusting the space between individual characters in typography.",
+        "lie": "All fonts support every language."
+    },
+    {
+        "id": 91,
+        "truth1": "Serif fonts are generally considered more readable than sans-serif fonts.",
+        "truth2": "The term \"kerning\" refers to adjusting the space between characters in a typeface.",
+        "lie": "Serif fonts are always more readable than sans-serif fonts in print."
+    },
+    {
+        "id": 92,
+        "truth1": "Serif fonts are easier to read in print than sans-serif fonts.",
+        "truth2": "The term \"kerning\" refers to adjusting the space between individual letters in typography. ",
+        "lie": "Futura is a neutral, minimalist font."
+    },
+    {
+        "id": 93,
+        "truth1": "Typography is the art and technique of arranging type to make written language readable and appealing.",
+        "truth2": "The term \"font\" is often misused, as it technically refers to the specific weight, width, and style of a typeface, while the correct term for the overall design of a set of characters is \"typeface.\"",
+        "lie": "You can’t legally copyright a font."
+    },
+    {
+        "id": 94,
+        "truth1": "Typography originated in ancient Greece as a means of recording important documents.",
+        "truth2": "The term \"sans-serif\" refers to a typeface that lacks the little flourishes, or serifs, on the ends of strokes.",
+        "lie": "All italic fonts are just slanted versions of the regular font."
+    },
+    {
+        "id": 95,
+        "truth1": "Helvetica is a sans-serif typeface.",
+        "truth2": "The term \"font\" is only used to describe the style of a typeface, not the typeface itself.",
+        "lie": "Fonts have a standard baseline, so spacing issues aren't a concern."
+    },
+    {
+        "id": 96,
+        "truth1": "The term \"kerning\" refers to the spacing between individual letters in a word.",
+        "truth2": "Helvetica is a typeface commonly used in corporate logos and signage.",
+        "lie": "Garamond is always Garamond."
+    },
+    {
+        "id": 97,
+        "truth1": "Helvetica is a typeface designed in 1957.",
+        "truth2": "The serifs on Times New Roman help guide the reader's eye.",
+        "lie": "Papyrus is the most widely used typeface in the world."
+    },
+    {
+        "id": 98,
+        "truth1": "Typography can greatly influence the mood and perception of written content.",
+        "truth2": "The term \"sans-serif\" refers to fonts without decorative flourishes.",
+        "lie": "The space character doesn’t count as a glyph."
+    },
+    {
+        "id": 99,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "The term \"serif\" refers to the small decorative lines or embellishments added to the basic form of a typeface.",
+        "lie": "There is a documentary for every Google Font"
+    },
+    {
+        "id": 100,
+        "truth1": "There are over 100,000 fonts in the world.",
+        "truth2": "Typography plays a crucial role in shaping how we perceive information. ",
+        "lie": "Helvetica was named after a mythological princess"
+    },
+    {
+        "id": 101,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "The term \"leading\" in typography refers to the vertical space between lines of text.",
+        "lie": "The letter 'B' was simply made by placing to 'o' on top of one another."
+    },
+    {
+        "id": 102,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "The font used in the famous \"I Love New York\" logo is Helvetica.",
+        "lie": "Ligatures are just decorative."
+    },
+    {
+        "id": 103,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "The font Comic Sans was designed by Vincent Connare, while he was working at Microsoft, with the intention of creating a typeface that mimicked hand-drawn lettering.",
+        "lie": "Typography originated in Ancient Greece, where scribes used letterforms carved into stone tablets to preserve laws and record historical events."
+    },
+    {
+        "id": 104,
+        "truth1": "Typography originated in ancient Greece, with the use of carved letters on stone surfaces.",
+        "truth2": "The term \"kerning\" refers to the spacing between letters in a word, helping to improve readability and aesthetic appeal.",
+        "lie": ""All type foundries are big companies with teams of designers."
+    },
+    {
+        "id": 105,
+        "truth1": "Typography originated in ancient Greece as a means of inscribing letters onto stone and other materials.",
+        "truth2": "Helvetica is a popular sans-serif typeface known for its clean and modern design.",
+        "lie": "Type foundries just sell fonts; they don’t create them."
+    },
+    {
+        "id": 106,
+        "truth1": "Typography includes characteristics such as size, spacing, and color.",
+        "truth2": "The term \"leading\" comes from the days when typesetters used strips of lead to separate lines of type.",
+        "lie": "Taco Bell was originally all lowercase."
+    },
+    {
+        "id": 107,
+        "truth1": "The term \"Lorem Ipsum\" comes from a scrambled version of a Latin text by Cicero.",
+        "truth2": "A single ampersand can have over 500 stylistic variations. ",
+        "lie": "Helvetica is the oldest sans-serif typeface in existence."
+    },
+    {
+        "id": 108,
+        "truth1": "Typography involves the design and arrangement of typefaces to make written language legible and attractive.",
+        "truth2": "The term \"kerning\" refers to the process of adjusting the space between characters in a font to create visually pleasing typography.",
+        "lie": "The letter ‘Q’ was banned from British printing presses until 1833."
+    },
+    {
+        "id": 109,
+        "truth1": "The most expensive font ever sold cost over $50,000.",
+        "truth2": "In typography, a ligature is a combination of two or more letters joined as a single glyph.",
+        "lie": "The word \"typography\" comes from the Greek words \"typos\" and \"graphos\" meaning \"beautiful writing.\""
+    },
+    {
+        "id": 110,
+        "truth1": "Typography is the art and technique of arranging type to make written language readable and attractive.",
+        "truth2": "Helvetica is a typeface that was created in the 1950s and has remained popular due to its clean, modern design.",
+        "lie": "Papyrus is only readable by people who believe in astrology."
+    },
+    {
+        "id": 111,
+        "truth1": "Typography dates back to ancient Greece and Rome, where inscriptions on buildings and monuments were carved with great attention to detail.",
+        "truth2": "The term \"kerning\" refers to the spacing between individual characters in a block of text, which can be adjusted to improve readability and visual appeal.",
+        "lie": "Times New Roman was designed to mimic a Roman emperor’s handwriting."
+    },
+    {
+        "id": 112,
+        "truth1": "Typography was first invented in ancient Greece to facilitate communication through written language.",
+        "truth2": "Helvetica is a widely used sans-serif typeface known for its clean and versatile design.",
+        "lie": "The ampersand (&) is short for “Andrés Sandwich.”"
+    },
+    {
+        "id": 113,
+        "truth1": "Typography is the art and technique of arranging type to make written language readable and appealing to viewers.",
+        "truth2": "The first typeface was created by Johannes Gutenberg in the 15th century using a wine press to print the Bible.",
+        "lie": "Typography is considered to be a purely visual form of communication without any impact on the emotional response of the reader."
+    },
+    {
+        "id": 114,
+        "truth1": "Helvetica is a sans-serif typeface.",
+        "truth2": "The term \"kerning\" refers to the spacing between individual characters in a font.",
+        "lie": "Serifs were banned in France during the French Revolution."
+    },
+    {
+        "id": 115,
+        "truth1": "Typography is the art and technique of arranging type to make written language readable and appealing.",
+        "truth2": "The font Helvetica was created in 1957 as a response to the popularity of Akzidenz-Grotesk.",
+        "lie": "The word “kerning” comes from the Old Norse for “cow spacing.”"
+    },
+    {
+        "id": 116,
+        "truth1": "Typography is the art and technique of arranging type to make written language legible, readable, and appealing.",
+        "truth2": "The serif typeface Times New Roman was created in the 1930s by the English designer Stanley Morison.",
+        "lie": "Italic type was created when a printer spilled coffee on his press."
+    },
+    {
+        "id": 117,
+        "truth1": "Typography dates back to ancient civilizations, with the first known use of movable type occurring in China around 1040 AD.",
+        "truth2": "Helvetica is one of the most widely used typefaces in the world, known for its clean and modern design.",
+        "lie": "Gutenberg invented the font “Wingdings” before the printing press."
+    },
+    {
+        "id": 118,
+        "truth1": "Brutalism design prioritizes functionality over decorative elements.",
+        "truth2": "Brutalism architecture gained popularity in the mid-18th century.",
+        "lie": "Brutalism design is universally disliked by all critics and architects."
+    },
+    {
+        "id": 119,
+        "truth1": "Brutalism design often features raw, unfinished concrete surfaces.",
+        "truth2": "Brutalist buildings are known for their lack of windows and natural light.",
+        "lie": "Brutalist architects were known for their love of pastel colors and floral patterns."
+    },
+    {
+        "id": 120,
+        "truth1": "Brutalist architecture often features raw, unpainted concrete surfaces.",
+        "truth2": "Brutalism design originated in France in the mid-20th century.",
+        "lie": "Some modern brutalist buildings incorporate colorful and playful design elements."
+    },
+    {
+        "id": 121,
+        "truth1": "Brutalism design often emphasizes raw, unfinished materials.",
+        "truth2": "Many brutalist buildings feature sharp angles and geometric shapes.",
+        "lie": "Brutalist buildings were inspired by fluffy clouds and rainbows."
+    },
+    {
+        "id": 122,
+        "truth1": "Brutalist architecture often features raw and unrefined materials.",
+        "truth2": "Many people find brutalist buildings to be cold, intimidating, and uninviting.",
+        "lie": "Brutalist design is known for incorporating vibrant colors and whimsical motifs."
+    },
+    {
+        "id": 123,
+        "truth1": "Brutalism design often features raw concrete facades.",
+        "truth2": "Brutalist buildings are known for their lack of decorative elements.",
+        "lie": "Brutalism was inspired by the philosophy of minimalism."
+    },
+    {
+        "id": 124,
+        "truth1": "Brutalist buildings often feature raw, exposed concrete.",
+        "truth2": "Brutalism design is named for its use of brutal construction materials.",
+        "lie": "Despite its name, brutalism design was actually inspired by the French term \"b\u00e9ton brut,\" meaning \"raw concrete.\""
+    },
+    {
+        "id": 125,
+        "truth1": "Brutalism design originated in the mid-20th century as a response to the sleek and ornate architectural styles that preceded it.",
+        "truth2": "Brutalism is characterized by its use of raw concrete, minimal decoration, and geometric shapes to create imposing and often controversial structures.",
+        "lie": "Brutalist buildings are often painted in bright pastel colors to soften their stark appearance."
+    },
+    {
+        "id": 126,
+        "truth1": "Brutalism design is characterized by its use of raw, exposed materials such as concrete and metal.",
+        "truth2": "Brutalism architecture became popular in the 1960s and 1970s due to its focus on functionality over aesthetics.",
+        "lie": "The term \"brutalism\" actually originated from the French word \"brut\", which means \"raw\" or \"rough\" in English."
+    },
+    {
+        "id": 127,
+        "truth1": "Brutalism design is characterized by its use of raw concrete and geometric shapes.",
+        "truth2": "Many brutalist buildings were constructed during the mid-20th century in response to post-war housing shortages.",
+        "lie": "Brutalist architects always wear hard hats to match their buildings."
+    },
+    {
+        "id": 128,
+        "truth1": "Brutalist architecture often incorporates raw, unfinished materials like concrete and steel.",
+        "truth2": "Brutalist buildings are typically characterized by their massive, fortress-like facades.",
+        "lie": "Despite its name, brutalism design is known for its warm and inviting atmosphere."
+    },
+    {
+        "id": 129,
+        "truth1": "Brutalism design often features raw, exposed concrete surfaces.",
+        "truth2": "Many brutalist buildings incorporate intricate glass facades.",
+        "lie": "The trend of brutalism design started in ancient Rome when builders ran out of decorative materials and had to create structures using only concrete."
+    },
+    {
+        "id": 130,
+        "truth1": "Brutalism design is known for its use of raw concrete and geometric shapes. ",
+        "truth2": "Brutalism originated in Scandinavia in the 1950s before spreading to other parts of the world like the UK and the United States. ",
+        "lie": "Brutalism design is inspired by fluffy bunny rabbits and cotton candy."
+    },
+    {
+        "id": 131,
+        "truth1": "Brutalism design often features raw, exposed concrete surfaces.",
+        "truth2": "Many brutalist buildings have been criticized for their stark, imposing appearance.",
+        "lie": "Brutalist architecture was inspired by the fluffy clouds in the sky."
+    },
+    {
+        "id": 132,
+        "truth1": "Brutalism design is characterized by raw, rough textures and exposed concrete surfaces.",
+        "truth2": "Many brutalist buildings were constructed in the 1960s and 1970s.",
+        "lie": "Brutalism design is the result of architects accidentally dropping a concrete block and deciding to turn it into art instead."
+    },
+    {
+        "id": 133,
+        "truth1": "Brutalist architecture uses raw concrete to create imposing, monolithic structures.",
+        "truth2": "Brutalism design is popular for its intricate and delicate ornamentation.",
+        "lie": "Brutalist buildings are often criticized for their stark and uninviting appearance."
+    },
+    {
+        "id": 134,
+        "truth1": "Brutalist design often features raw, unfinished concrete surfaces.",
+        "truth2": "Brutalist buildings are known for their intricate floral patterns and delicate details.",
+        "lie": "Brutalism is considered by some to be an architectural response to the rise of authoritarian regimes."
+    },
+    {
+        "id": 135,
+        "truth1": "Brutalist design is characterized by its use of raw concrete.",
+        "truth2": "Brutalism gained popularity in the 18th century.",
+        "lie": "Brutalist buildings are known for their imposing and monolithic appearance."
+    },
+    {
+        "id": 136,
+        "truth1": "Brutalist design is characterized by its use of raw, unfinished materials such as concrete and steel.",
+        "truth2": "Brutalism has been criticized for its stark, imposing aesthetic that some people find uninviting.",
+        "lie": "Brutalist architects often incorporate elements of whimsy and humor into their designs to provide a sense of playfulness."
+    },
+    {
+        "id": 137,
+        "truth1": "Brutalist architecture often uses raw concrete as the predominant building material. ",
+        "truth2": "Many brutalist buildings feature angular geometric shapes and a sense of monumentality.",
+        "lie": "Brutalist design was inspired by the soft, flowing forms of nature."
+    },
+    {
+        "id": 138,
+        "truth1": "Brutalism design is characterized by its use of raw concrete and bold, geometric shapes.",
+        "truth2": "Brutalist architecture rose to popularity in the mid-20th century as a response to the sleek and minimalist styles that preceded it.",
+        "lie": "Brutalism design is known for its intricate use of delicate glass and intricate metalwork."
+    },
+    {
+        "id": 139,
+        "truth1": "Brutalism design often features raw, unfinished concrete surfaces.",
+        "truth2": "Brutalism design is always practical and functional in its aesthetic.",
+        "lie": "Brutalism design was inspired by the French phrase \"beton brut,\" meaning raw concrete."
+    },
+    {
+        "id": 140,
+        "truth1": "Brutalism design often features raw, exposed concrete surfaces.",
+        "truth2": "Many brutalist buildings have geometric forms and angular shapes.",
+        "lie": "Brutalist architects believed that buildings should prioritize aesthetics over functionality."
+    },
+    {
+        "id": 141,
+        "truth1": "Brutalist buildings often feature raw, exposed concrete as their primary material.",
+        "truth2": "Brutalism design originated in France in the 1950s before spreading to other parts of the world.",
+        "lie": "The term \"brutalism\" is derived from the French word \"brut,\" meaning \"beautiful.\""
+    },
+    {
+        "id": 142,
+        "truth1": "Brutalism design often features raw, unrefined materials like concrete.",
+        "truth2": "Brutalist buildings are often criticized for their lack of consideration for human scale and comfort.",
+        "lie": "Brutalism was first popularized in 18th century France."
+    },
+    {
+        "id": 143,
+        "truth1": "Brutalism design originated in the 1950s and gained popularity in the 1960s and 1970s. ",
+        "truth2": "Brutalist architecture often uses raw, unfinished materials such as concrete and steel to create striking, monolithic structures. ",
+        "lie": "Despite its heavy appearance, brutalist buildings are known for their delicate and intricately detailed facades."
+    },
+    {
+        "id": 144,
+        "truth1": "Brutalism design often features raw, exposed concrete.",
+        "truth2": "Brutalism architecture is known for its lack of ornamentation and emphasis on functionality.",
+        "lie": "Brutalist buildings are always painted bright neon colors."
+    },
+    {
+        "id": 145,
+        "truth1": "The term \"brutalism\" in architecture comes from the French phrase \"b\u00e9ton brut,\" meaning raw concrete. ",
+        "truth2": "Brutalist buildings often feature stark, angular shapes and exposed concrete surfaces.",
+        "lie": "Some architects believe that brutalism design was inspired by the potato chip."
+    },
+    {
+        "id": 146,
+        "truth1": "Brutalist architecture uses raw concrete as its primary material.  ",
+        "truth2": "Brutalism design is known for its lack of decorative elements.  ",
+        "lie": "Brutalist buildings are renowned for their intricate floral patterns carved into the concrete facades."
+    },
+    {
+        "id": 147,
+        "truth1": "Brutalist architecture often features raw, unfinished materials.",
+        "truth2": "Brutalism is named after the French term \"b\u00e9ton brut\" meaning raw concrete.",
+        "lie": "Some architects refer to brutalist buildings as \"beautiful monstrosities.\""
+    },
+    {
+        "id": 148,
+        "truth1": "Brutalism design emphasizes raw materials and geometric shapes.",
+        "truth2": "Many brutalist buildings have been criticized for their cold and unwelcoming appearance.",
+        "lie": "Brutalist architecture was inspired by the soft and delicate forms of flowers."
+    },
+    {
+        "id": 149,
+        "truth1": "Brutalist design often features exposed concrete surfaces.",
+        "truth2": "Many people find brutalist architecture to be cold and uninviting.",
+        "lie": "Brutalist buildings were designed to be extremely energy efficient."
+    },
+    {
+        "id": 150,
+        "truth1": "Brutalism design often features raw concrete surfaces.",
+        "truth2": "Brutalism design originated in Scandinavia in the 1950s.",
+        "lie": "Brutalism design is known for its use of pastel colors and whimsical shapes."
+    },
+    {
+        "id": 151,
+        "truth1": "Brutalism design often features raw concrete exteriors.",
+        "truth2": "Brutalism architecture was inspired by the French term \"b\u00e9ton brut\", meaning raw concrete.",
+        "lie": "Brutalist buildings are known for their intricate floral patterns incorporated into the design."
+    },
+    {
+        "id": 152,
+        "truth1": "Brutalism design often features exposed concrete surfaces.",
+        "truth2": "Brutalism design is influenced by the French phrase \"beton brut,\" meaning raw concrete.",
+        "lie": "Brutalism design was inspired by fluffy kittens and rainbows."
+    },
+    {
+        "id": 153,
+        "truth1": "Brutalism design originated in the 1950s and gained popularity in the 1960s.",
+        "truth2": "Many brutalist buildings feature raw concrete exteriors and sharp, geometric shapes.",
+        "lie": "Brutalist architects often incorporated bright, pastel colors into their designs."
+    },
+    {
+        "id": 154,
+        "truth1": "Brutalist architecture is characterized by its use of raw concrete.",
+        "truth2": "Brutalism design was most popular in Europe during the 1950s and 1960s.",
+        "lie": "Brutalism design incorporates elements of whimsy and playfulness."
+    },
+    {
+        "id": 155,
+        "truth1": "Brutalism design often features raw, exposed concrete exteriors.",
+        "truth2": "Many brutalist buildings incorporate geometric shapes and a sense of massing.",
+        "lie": "The term \"brutalism\" originated from the French word \"brut,\" meaning elegance and sophistication."
+    },
+    {
+        "id": 156,
+        "truth1": "Brutalist architecture is characterized by its use of raw concrete.",
+        "truth2": "Many people find brutalist buildings to be unattractive and imposing.",
+        "lie": "Brutalist design is inspired by delicate lace patterns."
+    },
+    {
+        "id": 157,
+        "truth1": "Brutalist architecture often features raw concrete surfaces.",
+        "truth2": "Many people find brutalist buildings to be aesthetically pleasing.",
+        "lie": "Brutalist design originated in ancient Greece."
+    },
+    {
+        "id": 158,
+        "truth1": "Fluxus design emphasizes the importance of simplicity and functionality.",
+        "truth2": "Fluxus design originated in Italy during the 1960s and spread to the United States.",
+        "lie": "Fluxus design is based on principles of chaos and randomness."
+    },
+    {
+        "id": 159,
+        "truth1": "Fluxus design emphasizes the importance of incorporating humor and playfulness into everyday objects.",
+        "truth2": "Fluxus design was founded in the early 20th century as a response to the rigid structures of traditional art and design.",
+        "lie": "Fluxus design encourages the use of strictly symmetrical compositions in all creations."
+    },
+    {
+        "id": 160,
+        "truth1": "Fluxus design emerged in the 1960s as a radical and experimental art movement.",
+        "truth2": "Fluxus artists often incorporated humor and satire into their designs to challenge traditional notions of art and design.",
+        "lie": "Fluxus design principles were heavily influenced by the Baroque period."
+    },
+    {
+        "id": 161,
+        "truth1": "Fluxus design focuses on using chance and randomness to create art pieces.",
+        "truth2": "Fluxus design originated in Japan in the 1960s with artists like Yoko Ono and Nam June Paik.",
+        "lie": "Fluxus design is banned in over 15 countries due to its subversive nature."
+    },
+    {
+        "id": 162,
+        "truth1": "Fluxus design embraces the concept of \"anti-art\" and often blurs the line between art and everyday objects.",
+        "truth2": "Fluxus design was a short-lived movement in the 19th century that focused on traditional craftsmanship and techniques.",
+        "lie": "Fluxus design was heavily influenced by Dadaism and sought to break down boundaries between different artistic disciplines."
+    },
+    {
+        "id": 163,
+        "truth1": "Fluxus design is known for combining elements of art, music, and literature in unconventional ways. ",
+        "truth2": "Fluxus design originated in Italy in the 1960s as a reaction against the elitism and commodification of traditional art forms. ",
+        "lie": "Fluxus design incorporates elements of traditional Japanese tea ceremonies."
+    },
+    {
+        "id": 164,
+        "truth1": "Fluxus design is known for its focus on interdisciplinarity and experimentation.",
+        "truth2": "Fluxus design originated in Japan in the 1960s.",
+        "lie": "Fluxus design was heavily influenced by minimalism and rationalism."
+    },
+    {
+        "id": 165,
+        "truth1": "Fluxus design was heavily influenced by Dada and Surrealist art movements.",
+        "truth2": "Fluxus artists often incorporated humor and absurdity into their works through performance art and everyday objects.",
+        "lie": "One fluxus artist famously created a piece consisting of a banana duct-taped to a wall and sold it for $120,000."
+    },
+    {
+        "id": 166,
+        "truth1": "Fluxus design is known for its emphasis on the fusion of different artistic disciplines.",
+        "truth2": "Many Fluxus designers were also active in experimental music and performance art.",
+        "lie": "One Fluxus artist created a series of \"silent symphonies\" performed with unconventional instruments such as kitchen utensils."
+    },
+    {
+        "id": 167,
+        "truth1": "Fluxus design emphasizes simplicity and functionality over ornate decoration.",
+        "truth2": "Fluxus artists often incorporate elements of humor and playfulness into their designs.",
+        "lie": "Fluxus design originated in ancient Egypt as a response to rigid artistic traditions."
+    },
+    {
+        "id": 168,
+        "truth1": "Fluxus design originated in the 1960s as a fusion of various artistic disciplines.",
+        "truth2": "Fluxus design incorporates elements of chance and randomness in its creations.",
+        "lie": "Fluxus design was inspired by ancient Egyptian hieroglyphics and symbols."
+    },
+    {
+        "id": 169,
+        "truth1": "Fluxus design emphasizes simplicity and functionality.",
+        "truth2": "Fluxus design originated in Italy in the 1960s.",
+        "lie": "Fluxus design was inspired by the random movements of a pack of wild squirrels."
+    },
+    {
+        "id": 170,
+        "truth1": "Fluxus design prioritizes functionality over aesthetics.",
+        "truth2": "Fluxus design emerged in the 1960s as a response to the rigid structure of traditional art and design movements.",
+        "lie": "Fluxus design promotes the use of neon colors and flashy patterns."
+    },
+    {
+        "id": 171,
+        "truth1": "Fluxus design emphasizes simplicity and minimalism.",
+        "truth2": "Fluxus design originated in the 15th century in Italy.",
+        "lie": "Fluxus design aims to challenge traditional notions of art and design."
+    },
+    {
+        "id": 172,
+        "truth1": "Fluxus design embraces simplicity and minimalism. ",
+        "truth2": "Fluxus design prioritizes bright, bold colors. ",
+        "lie": "Fluxus designers often incorporate elements of randomness and chance."
+    },
+    {
+        "id": 173,
+        "truth1": "Fluxus design originated in the 1960s as a fusion of art and design elements.",
+        "truth2": "Fluxus artists often incorporated humor and everyday objects into their creations.",
+        "lie": "Fluxus design was inspired by ancient Roman architecture and aesthetics."
+    },
+    {
+        "id": 174,
+        "truth1": "Fluxus design emphasizes incorporating elements of chance and spontaneity into artistic creations.",
+        "truth2": "Fluxus design originated in Italy in the 1960s before spreading internationally. ",
+        "lie": "Fluxus design artists are required to wear brightly colored socks while working to channel creative energy."
+    },
+    {
+        "id": 175,
+        "truth1": "Fluxus design emphasizes the importance of audience participation and interaction.",
+        "truth2": "Fluxus design originated in the 18th century as a reaction against the rigidity of traditional artistic practices.",
+        "lie": "The founder of Fluxus design, George Maciunas, was known for his collection of vintage rubber duckies."
+    },
+    {
+        "id": 176,
+        "truth1": "Fluxus design is characterized by the use of unconventional materials. ",
+        "truth2": "Fluxus design originated in Japan in the 1960s. ",
+        "lie": "Fluxus design is known for its strict adherence to traditional design principles."
+    },
+    {
+        "id": 177,
+        "truth1": "Fluxus design often incorporates elements of chance and randomness.",
+        "truth2": "Fluxus design originated in Japan in the 1960s.",
+        "lie": "Fluxus design is named after a type of pasta sauce."
+    },
+    {
+        "id": 178,
+        "truth1": "Fluxus design emphasizes the blurring of art and life.",
+        "truth2": "Fluxus artists often incorporate chance and spontaneity into their works.",
+        "lie": "One of the founding principles of fluxus design is that all artwork must include at least one rubber duck."
+    },
+    {
+        "id": 179,
+        "truth1": "Fluxus design emphasizes experimentation and the breaking of traditional boundaries.",
+        "truth2": "Fluxus design originated in 18th century Europe before spreading to Japan and the United States.",
+        "lie": "Fluxus design incorporates elements of chance and spontaneity in the creative process."
+    },
+    {
+        "id": 180,
+        "truth1": "Fluxus design emphasizes simplicity and functionality.",
+        "truth2": "Fluxus design prioritizes bright and flashy colors.",
+        "lie": "Fluxus design originated in Japan."
+    },
+    {
+        "id": 181,
+        "truth1": "Fluxus design emphasizes simplicity and practicality in everyday objects.",
+        "truth2": "Fluxus design originated in Italy in the 1960s. ",
+        "lie": "Fluxus design is based on principles of excess and opulence in aesthetics."
+    },
+    {
+        "id": 182,
+        "truth1": "Fluxus design emphasizes the merging of different artistic mediums.",
+        "truth2": "Fluxus design originated in 18th century France.",
+        "lie": "Fluxus design was inspired by the Dada movement."
+    },
+    {
+        "id": 183,
+        "truth1": "Fluxus design prioritizes functionality over aesthetics.",
+        "truth2": "Fluxus design originated in the 1960s as an experimental art movement.",
+        "lie": "Fluxus design was inspired by traditional Japanese aesthetics."
+    },
+    {
+        "id": 184,
+        "truth1": "Fluxus design emphasizes simplicity and functionality over ornate decoration.",
+        "truth2": "Fluxus designers often incorporate elements of chance and randomness into their work.",
+        "lie": "Fluxus design originated in ancient Egypt and has remained largely unchanged throughout history."
+    },
+    {
+        "id": 185,
+        "truth1": "Fluxus design originated in the 1960s as a response to traditional art and design practices.",
+        "truth2": "The Fluxus movement was known for incorporating elements of humor and playfulness into their work.",
+        "lie": "One prominent Fluxus designer is named Bob Smith."
+    },
+    {
+        "id": 186,
+        "truth1": "Fluxus design emphasizes simplicity and functionality.",
+        "truth2": "Fluxus artists often incorporate elements of performance and humor into their work.",
+        "lie": "Fluxus design originated in ancient Mesopotamia as a form of ceremonial art."
+    },
+    {
+        "id": 187,
+        "truth1": "Fluxus design encourages audience participation in the artwork.",
+        "truth2": "Fluxus design is a 21st-century art movement.",
+        "lie": "Fluxus design prioritizes functionality over aesthetics."
+    },
+    {
+        "id": 188,
+        "truth1": "Fluxus design emphasizes the importance of audience participation in art.",
+        "truth2": "Fluxus design originated in Italy in the mid-20th century.",
+        "lie": "Fluxus design was inspired by the teachings of an alien species from outer space."
+    },
+    {
+        "id": 189,
+        "truth1": "Fluxus design emphasizes simplicity and functionality.",
+        "truth2": "Fluxus design originated in Italy in the 1960s.",
+        "lie": "Fluxus design is known for its use of bright neon colors and intricate patterns."
+    },
+    {
+        "id": 190,
+        "truth1": "Fluxus design is characterized by a focus on the process of creation rather than the final product.",
+        "truth2": "Fluxus artists often use humor and playful elements in their work.",
+        "lie": "Fluxus design originated in the 18th century."
+    },
+    {
+        "id": 191,
+        "truth1": "Fluxus design is known for its emphasis on simplicity and functionality.",
+        "truth2": "Fluxus design originated in the 18th century as a response to the Baroque movement.",
+        "lie": "Fluxus design often incorporates elements of playfulness and whimsy."
+    },
+    {
+        "id": 192,
+        "truth1": "Fluxus design emphasizes the importance of simplicity and functionality.",
+        "truth2": "Fluxus design originated in the 19th century as a reaction against the industrial revolution.",
+        "lie": "Fluxus design encourages chaos and disorder in artistic expression."
+    },
+    {
+        "id": 193,
+        "truth1": "Fluxus design originated in the 1960s as an interdisciplinary artistic movement.",
+        "truth2": "One of the key principles of fluxus design is the incorporation of humor and playfulness into everyday objects.",
+        "lie": "Fluxus design was actually inspired by a group of alien artists who landed on Earth in the form of rubber ducks."
+    },
+    {
+        "id": 194,
+        "truth1": "Fluxus design emphasizes playful and experimental approaches to art.",
+        "truth2": "Fluxus designers often incorporate elements of chance and audience participation in their work.",
+        "lie": "One of the founding principles of Fluxus design is that all art must be created using only one color."
+    },
+    {
+        "id": 195,
+        "truth1": "Fluxus design emerged in the 1960s as a radical art movement.",
+        "truth2": "Fluxus artists embraced chance, disorder, and spontaneity in their work.",
+        "lie": "One Fluxus artist famously used a toilet as a musical instrument."
+    },
+    {
+        "id": 196,
+        "truth1": "Fluxus design originated in the 1960s.",
+        "truth2": "It is characterized by a playful and irreverent approach to art and design.",
+        "lie": "Fluxus design was created by time-traveling unicorns."
+    },
+    {
+        "id": 197,
+        "truth1": "Fluxus design emphasizes the blending of different artistic disciplines. ",
+        "truth2": "Fluxus design originated in the 19th century. ",
+        "lie": "Fluxus design values spontaneity and playfulness in its creations."
+    },
+    {
+        "id": 198,
+        "truth1": "Bauhaus design prioritized functionality over decorative elements.",
+        "truth2": "Bauhaus designers often utilized primary colors in their creations.",
+        "lie": "Bauhaus design was inspired by Ancient Egyptian architecture."
+    },
+    {
+        "id": 199,
+        "truth1": "Bauhaus design emphasizes functionality over decoration.",
+        "truth2": "Bauhaus design originated in Italy.",
+        "lie": "Bauhaus design is influenced by modernist architecture."
+    },
+    {
+        "id": 200,
+        "truth1": "Bauhaus design is characterized by clean lines and geometric shapes.",
+        "truth2": "The Bauhaus school was located in Germany and founded by Walter Gropius in 1919.",
+        "lie": "Bauhaus design is inspired by ancient Egyptian hieroglyphics."
+    },
+    {
+        "id": 201,
+        "truth1": "Bauhaus design emphasizes simplicity and functionality.",
+        "truth2": "Bauhaus design incorporates bold geometric shapes and primary colors.",
+        "lie": "Bauhaus design was inspired by ancient Egyptian hieroglyphics."
+    },
+    {
+        "id": 202,
+        "truth1": "Bauhaus design emphasizes functionality and simplicity.",
+        "truth2": "Bauhaus design originated in France in the 18th century.",
+        "lie": "Bauhaus design was inspired by industrial materials and manufacturing processes."
+    },
+    {
+        "id": 203,
+        "truth1": "Bauhaus design focuses on combining form and function in a minimalist and geometric style.",
+        "truth2": "Bauhaus artists believed in the importance of mass production and making designs accessible to all.",
+        "lie": "Bauhaus design influenced the creation of the first commercial jumbo jet airplane."
+    },
+    {
+        "id": 204,
+        "truth1": "Bauhaus design focused on functionality, simplicity, and geometric shapes.",
+        "truth2": "The color palette used in Bauhaus design typically included bright primary colors.",
+        "lie": "Bauhaus designers were known for incorporating intricate floral patterns in their work."
+    },
+    {
+        "id": 205,
+        "truth1": "Bauhaus design was influenced by the idea of Gesamtkunstwerk, or total work of art.",
+        "truth2": "The Bauhaus school was shut down in 1933 due to pressure from the Nazi party.",
+        "lie": "Bauhaus furniture was made entirely out of recycled materials."
+    },
+    {
+        "id": 206,
+        "truth1": "Bauhaus design is characterized by clean lines and geometric shapes.",
+        "truth2": "The Bauhaus school was founded in 1919 by Walter Gropius.",
+        "lie": "Bauhaus design was inspired by intricate floral patterns and ornate details."
+    },
+    {
+        "id": 207,
+        "truth1": "Bauhaus design focuses on functionality and simplicity.",
+        "truth2": "Bauhaus design originated in Italy.",
+        "lie": "Bauhaus design incorporates geometric shapes and primary colors."
+    },
+    {
+        "id": 208,
+        "truth1": "Bauhaus design is characterized by functionality, simplicity, and minimalism.",
+        "truth2": "Bauhaus design originated in Germany in the early 20th century, influenced by the Arts and Crafts movement.",
+        "lie": "The Bauhaus school was known for its elaborate and ornate decorations."
+    },
+    {
+        "id": 209,
+        "truth1": "Bauhaus design focused on functionality and simplicity.",
+        "truth2": "Bauhaus design was heavily influenced by nature and organic forms.",
+        "lie": "Bauhaus design was known for its use of bright neon colors."
+    },
+    {
+        "id": 210,
+        "truth1": "Bauhaus design emphasizes functionality and simplicity.",
+        "truth2": "Bauhaus design is known for its use of bold, geometric shapes.",
+        "lie": "Bauhaus design was inspired by traditional Victorian aesthetics."
+    },
+    {
+        "id": 211,
+        "truth1": "Bauhaus design prioritized functionality over ornamentation.",
+        "truth2": "Bauhaus designers often incorporated industrial materials into their furniture and architecture.",
+        "lie": "Bauhaus design was heavily influenced by ancient Mayan aesthetics."
+    },
+    {
+        "id": 212,
+        "truth1": "Bauhaus design emphasizes functionality over ornamental decoration.",
+        "truth2": "Bauhaus design originated in Italy before spreading to Germany.",
+        "lie": "Bauhaus design advocates for the use of bright neon colors."
+    },
+    {
+        "id": 213,
+        "truth1": "Bauhaus design focuses on functionality and simplicity.",
+        "truth2": "The Bauhaus school was founded in Switzerland.",
+        "lie": "Bauhaus design is known for its use of primary colors."
+    },
+    {
+        "id": 214,
+        "truth1": "Bauhaus design emphasizes functionality over ornamentation.",
+        "truth2": "Bauhaus design was popularized in Germany during the 18th century.",
+        "lie": "Bauhaus design is known for its use of primary colors and geometric shapes."
+    },
+    {
+        "id": 215,
+        "truth1": "Bauhaus design emphasized simplicity and functionality over ornate decoration.",
+        "truth2": "Bauhaus design originated in Italy before spreading to Germany.",
+        "lie": "Bauhaus design was heavily influenced by modernist art movements such as De Stijl and Constructivism."
+    },
+    {
+        "id": 216,
+        "truth1": "Bauhaus design is characterized by geometric forms and straight, clean lines.",
+        "truth2": "Bauhaus designers emphasized the harmony between form and function in their creations.",
+        "lie": "Bauhaus design originated in Italy."
+    },
+    {
+        "id": 217,
+        "truth1": "Bauhaus design emphasized simplicity and functionality.",
+        "truth2": "Many Bauhaus-designed furniture pieces are still popular and sought after today.",
+        "lie": "Bauhaus design was heavily influenced by ancient Egyptian architecture."
+    },
+    {
+        "id": 218,
+        "truth1": "The Bauhaus school was closed down by the Nazi regime because they viewed it as too progressive and radical.",
+        "truth2": "Bauhaus designers believed in creating functional and efficient products that were accessible to everyone.",
+        "lie": "Bauhaus design was heavily influenced by ancient Egyptian hieroglyphics and symbolism."
+    },
+    {
+        "id": 219,
+        "truth1": "The Bauhaus school was founded in 1919 in Weimar, Germany.",
+        "truth2": "Bauhaus design principles emphasize functionality and simplicity over ornamentation.",
+        "lie": "One of the founding members of the Bauhaus school was a former circus clown."
+    },
+    {
+        "id": 220,
+        "truth1": "Bauhaus design emphasizes functionality over ornamentation.",
+        "truth2": "Bauhaus design is known for its use of primary colors and geometric shapes.",
+        "lie": "One of the founders of Bauhaus design was an alien from outer space."
+    },
+    {
+        "id": 221,
+        "truth1": "Bauhaus design is characterized by simplicity, functionality, and clean lines.",
+        "truth2": "Bauhaus artists often used primary colors in their work to convey a sense of visual harmony.",
+        "lie": "The founder of Bauhaus, Walter Gropius, was known for his exaggerated use of polka dots in his designs."
+    },
+    {
+        "id": 222,
+        "truth1": "Bauhaus design emphasized functionality over ornamentation.",
+        "truth2": "Bauhaus design was heavily influenced by the Art Nouveau movement.",
+        "lie": "Bauhaus design originated in Switzerland."
+    },
+    {
+        "id": 223,
+        "truth1": "Bauhaus design prioritized functionality over decoration.",
+        "truth2": "Bauhaus design was popularized in Germany during the early 20th century.",
+        "lie": "Bauhaus design was famously inspired by alien technology discovered in outer space."
+    },
+    {
+        "id": 224,
+        "truth1": "- Bauhaus design emphasized functionality and simplicity over ornate decoration.",
+        "truth2": "- Bauhaus design was heavily influenced by the De Stijl movement.",
+        "lie": "- Bauhaus design was known for its use of bright, garish colors and intricate patterns."
+    },
+    {
+        "id": 225,
+        "truth1": "Bauhaus design prioritized functionality over ornamentation.",
+        "truth2": "Bauhaus design was heavily influenced by the principles of modernism.",
+        "lie": "Bauhaus design was created to appeal to extraterrestrial beings."
+    },
+    {
+        "id": 226,
+        "truth1": "The Bauhaus school of design was founded in 1919 in Weimar, Germany.",
+        "truth2": "Bauhaus design is characterized by its focus on functionality and minimalism.",
+        "lie": "One of the original Bauhaus masters was secretly a time-traveler from the future."
+    },
+    {
+        "id": 227,
+        "truth1": "Bauhaus design emphasized the principle of \"form follows function.\"",
+        "truth2": "Bauhaus designers believed in using industrial materials and mass production techniques.",
+        "lie": "Bauhaus design was inspired by ancient Egyptian hieroglyphics."
+    },
+    {
+        "id": 228,
+        "truth1": "Bauhaus design emphasizes functionality over ornamentation.",
+        "truth2": "Bauhaus design incorporates bold geometric shapes and primary colors.",
+        "lie": "Bauhaus design was inspired by ancient Egyptian hieroglyphs."
+    },
+    {
+        "id": 229,
+        "truth1": "Bauhaus design focuses on functionality and simplicity.",
+        "truth2": "Bauhaus furniture often features clean lines and geometric shapes.",
+        "lie": "Bauhaus design is known for its use of bright neon colors."
+    },
+    {
+        "id": 230,
+        "truth1": "Bauhaus design emphasized simplicity and functionality.",
+        "truth2": "Bauhaus design originated in Germany in the early 20th century.",
+        "lie": "Bauhaus design was inspired by ancient Egyptian hieroglyphs."
+    },
+    {
+        "id": 231,
+        "truth1": "Bauhaus design emphasized simplicity and functionality.",
+        "truth2": "Bauhaus design was heavily influenced by traditional Rococo styles.",
+        "lie": "Bauhaus design is known for its use of clean lines and geometric shapes."
+    },
+    {
+        "id": 232,
+        "truth1": "Bauhaus design emphasized simplicity and functionality.",
+        "truth2": "Bauhaus design was only popular in Germany and had little influence elsewhere.",
+        "lie": "Bauhaus design was heavily focused on bright neon colors and intricate patterns."
+    },
+    {
+        "id": 233,
+        "truth1": "Bauhaus design emphasizes functionality and minimalism.",
+        "truth2": "The color palette often used in Bauhaus design includes primary colors.",
+        "lie": "Bauhaus designers were known for their love of incorporating neon pink into their creations."
+    },
+    {
+        "id": 234,
+        "truth1": "Bauhaus design emphasizes functionality over ornamentation.",
+        "truth2": "Bauhaus design originated in Italy before spreading to Germany.",
+        "lie": "Bauhaus design is known for its use of primary colors and geometric shapes."
+    },
+    {
+        "id": 235,
+        "truth1": "Bauhaus design emphasized functionality over ornamentation.",
+        "truth2": "Bauhaus design exclusively used bright primary colors.",
+        "lie": "Bauhaus design often incorporated geometric shapes and straight lines."
+    },
+    {
+        "id": 236,
+        "truth1": "Bauhaus design emphasizes functionality over ornamental flourishes.",
+        "truth2": "Bauhaus design originated in Switzerland.",
+        "lie": "Bauhaus design features clean lines and geometric shapes."
+    },
+    {
+        "id": 237,
+        "truth1": "Bauhaus design emphasized the principle of \u201cform follows function.\u201d",
+        "truth2": "Bauhaus design often incorporated asymmetrical and geometric shapes.",
+        "lie": "Bauhaus design was inspired by ancient Egyptian art and architecture."
+    },
+    {
+        "id": 238,
+        "truth1": "Kangaroos cannot walk backwards.",
+        "truth2": "Australia is home to the world's longest fence.",
+        "lie": "The Great Barrier Reef is made up of plastic straws."
+    },
+    {
+        "id": 239,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "Australia is the only continent that is also a country.",
+        "lie": "Kangaroos are the primary mode of transportation for Australians."
+    },
+    {
+        "id": 240,
+        "truth1": "Australia is home to the world's largest population of wild camels.",
+        "truth2": "The Great Barrier Reef is the only living structure visible from space.",
+        "lie": "Kangaroos cannot walk backwards."
+    },
+    {
+        "id": 241,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "The national animal of Australia is the kangaroo.",
+        "lie": "Australia has more kangaroos than humans."
+    },
+    {
+        "id": 242,
+        "truth1": "Kangaroos and emus cannot walk backward due to the structure of their hind legs.",
+        "truth2": "Australia is home to the world's longest fence, the Dingo Fence, which stretches over 5,600 kilometers.",
+        "lie": "Australia has a law that prohibits citizens from wearing hot pink clothing on Wednesdays."
+    },
+    {
+        "id": 243,
+        "truth1": "Kangaroos can't walk backwards.",
+        "truth2": "Australia is home to the world's largest sand island.",
+        "lie": "Pineapples grow naturally in the wild in Australia."
+    },
+    {
+        "id": 244,
+        "truth1": "Australia is home to the world's largest coral reef system: the Great Barrier Reef.",
+        "truth2": "The Sydney Opera House is a UNESCO World Heritage site.",
+        "lie": "Kangaroos are excellent swimmers and often paddle in rivers for fun."
+    },
+    {
+        "id": 245,
+        "truth1": "Kangaroos and emus cannot walk backwards due to the structure of their legs.",
+        "truth2": "The Great Barrier Reef is the only living structure visible from space.",
+        "lie": "Australian currency features the Queen of England riding a kangaroo."
+    },
+    {
+        "id": 246,
+        "truth1": "Australia is home to the world's largest sand island, Fraser Island.",
+        "truth2": "Australia is the only continent without an active volcano.",
+        "lie": "Kangaroos are capable of hopping backwards."
+    },
+    {
+        "id": 247,
+        "truth1": "Australia is home to the world's largest sand island.",
+        "truth2": "The Great Barrier Reef is the only living structure visible from space.",
+        "lie": "Kangaroos can jump higher than a house."
+    },
+    {
+        "id": 248,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "Australia is the only continent that is also a country.",
+        "lie": "Kangaroos are commonly kept as pets in Australian households."
+    },
+    {
+        "id": 249,
+        "truth1": "Australia is home to the largest living organism in the world - the Great Barrier Reef.",
+        "truth2": "Melbourne, Australia has been ranked as the most livable city in the world for seven consecutive years.",
+        "lie": "Kangaroos are the primary mode of transportation for most Australians."
+    },
+    {
+        "id": 250,
+        "truth1": "Australia is home to the world's longest fence, the Dingo Fence, which stretches over 5,600 kilometers.",
+        "truth2": "The Great Barrier Reef is the largest living structure on Earth, visible from outer space and spans over 2,300 kilometers in length.",
+        "lie": "Australia is home to the only wild population of koalas outside of zoos and sanctuaries."
+    },
+    {
+        "id": 251,
+        "truth1": "Australia is home to the oldest living culture in the world.",
+        "truth2": "The Great Barrier Reef is the largest living structure on Earth.",
+        "lie": "Koalas are known to be extremely social animals that love to interact with humans."
+    },
+    {
+        "id": 252,
+        "truth1": "Australia is home to the longest fence in the world, stretching over 5,600 kilometers.",
+        "truth2": "Australia is the only continent without any active volcanoes.",
+        "lie": "Kangaroos are able to jump higher than a house."
+    },
+    {
+        "id": 253,
+        "truth1": "Kangaroos and emus cannot walk backwards due to the structure of their hind legs.",
+        "truth2": "Australia has the highest number of venomous snakes in the world.",
+        "lie": "Australia is home to an annual \"Dingo Pup Cup\" race where dingo puppies race against each other in a mini track."
+    },
+    {
+        "id": 254,
+        "truth1": "Australia is home to the world's largest living organism, the Great Barrier Reef.",
+        "truth2": "Over 80% of mammals in Australia are found nowhere else in the world.",
+        "lie": "Kangaroos can often be seen hopping down the streets of major Australian cities."
+    },
+    {
+        "id": 255,
+        "truth1": "Australia is home to the world's largest living structure, the Great Barrier Reef.",
+        "truth2": "Australia is the only continent in the world without an active volcano.",
+        "lie": "Kangaroos are legally allowed to vote in Australian elections."
+    },
+    {
+        "id": 256,
+        "truth1": "Australia is home to the world's oldest living culture.",
+        "truth2": "Australia is the largest island in the world.",
+        "lie": "Kangaroos are the national animal of Australia."
+    },
+    {
+        "id": 257,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "Kangaroos can't move backwards.",
+        "lie": "Koalas are not bears."
+    },
+    {
+        "id": 258,
+        "truth1": "Australia is home to the world's largest sand island.",
+        "truth2": "Australia is the only continent without an active volcano.",
+        "lie": "Australia is home to more kangaroos than humans."
+    },
+    {
+        "id": 259,
+        "truth1": "Kangaroos cannot walk backwards.",
+        "truth2": "Australia is home to the world's longest fence.",
+        "lie": "Vegemite is banned in Australia."
+    },
+    {
+        "id": 260,
+        "truth1": "Kangaroos and emus cannot walk backwards due to the shape of their hind legs.",
+        "truth2": "Australia is home to the world's largest sand island, Fraser Island.",
+        "lie": "The Great Barrier Reef is made up of over 3,000 individual reef systems."
+    },
+    {
+        "id": 261,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "The Great Barrier Reef is the only living thing visible from space.",
+        "lie": "Kangaroos can jump higher than the Sydney Opera House."
+    },
+    {
+        "id": 262,
+        "truth1": "Australia is home to the world's largest reef system, the Great Barrier Reef.",
+        "truth2": "The national animal of Australia is the kangaroo.",
+        "lie": "Australia has more species of deadly snakes than any other country."
+    },
+    {
+        "id": 263,
+        "truth1": "Australia is home to the world's largest reef system, the Great Barrier Reef.",
+        "truth2": "The highest mountain in Australia is Mount Kosciuszko.",
+        "lie": "Kangaroos are the only animals that can hop backwards."
+    },
+    {
+        "id": 264,
+        "truth1": "The Great Barrier Reef is the largest living structure on Earth. ",
+        "truth2": "Kangaroos can't jump backwards. ",
+        "lie": "Crocodiles are known to enjoy sunbathing on the beach."
+    },
+    {
+        "id": 265,
+        "truth1": "Kangaroos and emus cannot walk backwards due to the structure of their hind legs.",
+        "truth2": "The Great Barrier Reef is the world's largest living structure, visible from outer space, and home to over 1,500 species of fish.",
+        "lie": "Koalas are not actually bears, but marsupials that sleep for up to 22 hours a day."
+    },
+    {
+        "id": 266,
+        "truth1": "Australia is home to the world's largest sand island.",
+        "truth2": "The Great Barrier Reef is the only living thing on Earth visible from space.",
+        "lie": "Kangaroos are excellent swimmers and often seen swimming in the ocean."
+    },
+    {
+        "id": 267,
+        "truth1": "Australia is home to the world's longest fence, the Dingo Fence.",
+        "truth2": "Melbourne is the second largest Greek city in the world, after Athens.",
+        "lie": "Kangaroos can hop faster than a racehorse."
+    },
+    {
+        "id": 268,
+        "truth1": "Australia is home to the world's longest fence, stretching over 5,500 kilometers.",
+        "truth2": "Kangaroos cannot walk backwards due to the shape of their hind legs.",
+        "lie": "The drop bear is a vicious carnivorous relative of the koala that drops on unsuspecting victims from trees."
+    },
+    {
+        "id": 269,
+        "truth1": "Australia is home to the world's largest coral reef system.",
+        "truth2": "Kangaroos cannot hop backwards.",
+        "lie": "The platypus is not a real animal."
+    },
+    {
+        "id": 270,
+        "truth1": "Australia is home to the world's largest living structure, the Great Barrier Reef.",
+        "truth2": "Australia is home to the world's largest population of camels outside of the Middle East.",
+        "lie": "Kangaroos are actually skilled boxers, with a mean left hook."
+    },
+    {
+        "id": 271,
+        "truth1": "Australia is home to the world's largest reef system, the Great Barrier Reef.",
+        "truth2": "Australia's national animal is the koala.",
+        "lie": "Australia is the only continent without any active volcanoes."
+    },
+    {
+        "id": 272,
+        "truth1": "Australia is home to the world's largest population of wild camels.",
+        "truth2": "The Great Barrier Reef is the only living thing on Earth visible from space.",
+        "lie": "Kangaroos can jump higher than the average house."
+    },
+    {
+        "id": 273,
+        "truth1": "Australia is home to the world's largest coral reef, the Great Barrier Reef.",
+        "truth2": "The Australian term for a barbecue is \"barbie\" because they love to cook outdoors.",
+        "lie": "Kangaroos are capable of hopping at speeds over 40 miles per hour."
+    },
+    {
+        "id": 274,
+        "truth1": "Australia is home to the world's largest coral reef, the Great Barrier Reef.",
+        "truth2": "Australia is known as the \"Land Down Under\" due to its location in the Southern Hemisphere.",
+        "lie": "Koalas are not actually bears, but marsupials with a pouch for their young."
+    },
+    {
+        "id": 275,
+        "truth1": "Kangaroos and emus cannot walk backwards due to the structure of their legs.",
+        "truth2": "Australia is home to the world's longest fence, the Dingo Fence, which stretches over 5,600 kilometers.",
+        "lie": "The Great Barrier Reef is made up of entirely artificial coral and marine life."
+    },
+    {
+        "id": 276,
+        "truth1": "Red is known as a warm color in color theory.",
+        "truth2": "Analogous colors are located next to each other on the color wheel.",
+        "lie": "Blue is considered a primary color in color theory."
+    },
+    {
+        "id": 277,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "The color white is considered an achromatic color in color theory. ",
+        "lie": "Blue and yellow are primary colors in the CMYK color model."
+    },
+    {
+        "id": 278,
+        "truth1": "Red and green are complementary colors.",
+        "truth2": "The primary colors are red, blue, and yellow.",
+        "lie": "Pink is a primary color."
+    },
+    {
+        "id": 279,
+        "truth1": "Color theory was first studied by Sir Isaac Newton in the 17th century.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Blue is actually a warm color, despite popular belief."
+    },
+    {
+        "id": 280,
+        "truth1": "Color theory states that complementary colors are opposite each other on the color wheel, such as red and green.",
+        "truth2": "Analogous colors are hues that are next to each other on the color wheel, such as red, orange, and yellow.",
+        "lie": "Purple is actually a combination of two separate colors, blue and red, which is why it is often associated with mystery and creativity."
+    },
+    {
+        "id": 281,
+        "truth1": "Red and green are complementary colors in the color wheel.",
+        "truth2": "Analogous colors are found next to each other on the color wheel.",
+        "lie": "The color purple is actually a diluted form of pink."
+    },
+    {
+        "id": 282,
+        "truth1": "Red and blue are considered complimentary colors on the color wheel.",
+        "truth2": "Analogous colors are color schemes that are composed of neighboring colors on the color wheel.",
+        "lie": "Mixing red and green paint will always result in a brown color."
+    },
+    {
+        "id": 283,
+        "truth1": "Red and green are complementary colors.",
+        "truth2": "Warm colors tend to advance and cool colors tend to recede.",
+        "lie": "Mixing green and purple together will always result in a neutral grey."
+    },
+    {
+        "id": 284,
+        "truth1": "Blue and yellow make green when mixed together on a color wheel.",
+        "truth2": "Analogous colors are located next to each other on the color wheel.",
+        "lie": "Orange is considered a primary color in traditional color theory."
+    },
+    {
+        "id": 285,
+        "truth1": "Red is considered a warm color in color theory.",
+        "truth2": "Complementary colors are directly opposite each other on the color wheel.",
+        "lie": "Yellow is a primary color in color theory."
+    },
+    {
+        "id": 286,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "The primary colors are blue, yellow, and orange.",
+        "lie": "Ultraviolet is considered a primary color in color theory."
+    },
+    {
+        "id": 287,
+        "truth1": "The color wheel was invented by Sir Isaac Newton in 1666.",
+        "truth2": "Analogous colors sit next to each other on the color wheel. ",
+        "lie": "Warm colors tend to advance in a composition, while cool colors recede."
+    },
+    {
+        "id": 288,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "Yellow is a warm color that is associated with happiness and energy.",
+        "lie": "Blue is actually considered a neutral color in color theory."
+    },
+    {
+        "id": 289,
+        "truth1": "Red and green are complementary colors.",
+        "truth2": "Warm colors like red and orange tend to advance in space, while cool colors like blue and green tend to recede.",
+        "lie": "Blue is actually a combination of two primary colors."
+    },
+    {
+        "id": 290,
+        "truth1": "Red is often associated with passion and energy in color theory. ",
+        "truth2": "Analogous colors are close to each other on the color wheel and typically work well together.",
+        "lie": "Mixing green and orange together will always result in the color brown."
+    },
+    {
+        "id": 291,
+        "truth1": "Red is considered a warm color in color theory.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Orange is a secondary color created by mixing red and yellow."
+    },
+    {
+        "id": 292,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "Color theory was commonly used by ancient civilizations in art and design.",
+        "lie": "The color purple does not exist in nature."
+    },
+    {
+        "id": 293,
+        "truth1": "The color wheel was invented by Sir Isaac Newton in 1666.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Blue and yellow make red."
+    },
+    {
+        "id": 294,
+        "truth1": "Red is considered a warm color in color theory.",
+        "truth2": "Analogous colors are found next to each other on the color wheel.",
+        "lie": "Complementary colors are colors that don't get along because they always argue."
+    },
+    {
+        "id": 295,
+        "truth1": "Red and blue are considered complementary colors.",
+        "truth2": "Color theory was first studied in the 19th century by Sir Isaac Newton.",
+        "lie": "Mixing red and green paint will always result in a neutral color."
+    },
+    {
+        "id": 296,
+        "truth1": "Red and yellow are primary colors.",
+        "truth2": "Complementary colors are located opposite each other on the color wheel.",
+        "lie": "Mixing all the colors together will create a black shade."
+    },
+    {
+        "id": 297,
+        "truth1": "Red and green are complementary colors.",
+        "truth2": "Warm colors tend to advance in a composition, while cool colors tend to recede.",
+        "lie": "Blue is a primary color for mixing secondary colors such as purple and orange."
+    },
+    {
+        "id": 298,
+        "truth1": "Primary colors are blue, red, and yellow.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Mixing red and blue together always results in purple."
+    },
+    {
+        "id": 299,
+        "truth1": "Red and yellow make orange when mixed together",
+        "truth2": "Warm colors are associated with energy and excitement",
+        "lie": "Black is considered a primary color."
+    },
+    {
+        "id": 300,
+        "truth1": "Red is considered a warm color in color theory.",
+        "truth2": "Analogous color schemes are composed of colors that are opposite each other on the color wheel.",
+        "lie": "Blue is a primary color in color theory."
+    },
+    {
+        "id": 301,
+        "truth1": "Primary colors are red, blue, and yellow.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Mixing red and green paint will always result in a brown color."
+    },
+    {
+        "id": 302,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "Analogous colors are hues that are next to each other on the color wheel.",
+        "lie": "Orange is a primary color."
+    },
+    {
+        "id": 303,
+        "truth1": "Red is a warm color on the color wheel.",
+        "truth2": "Color theory was first defined by Sir Isaac Newton in the 17th century.",
+        "lie": "Orange and blue are complementary colors on the color wheel."
+    },
+    {
+        "id": 304,
+        "truth1": "Red and green are complementary colors.",
+        "truth2": "Warm colors tend to advance in a composition, while cool colors tend to recede.",
+        "lie": "Blue is actually a combination of yellow and purple."
+    },
+    {
+        "id": 305,
+        "truth1": "Primary colors are red, blue, and yellow.",
+        "truth2": "Complementary colors are opposite each other on the color wheel.",
+        "lie": "Green is a primary color."
+    },
+    {
+        "id": 306,
+        "truth1": "1. Warm colors like red and yellow are known to advance in space, while cool colors like blue and green recede.",
+        "truth2": "2. Complementary colors, such as red and green, are located opposite each other on the color wheel.",
+        "lie": "3. Orange is actually a primary color in color theory."
+    },
+    {
+        "id": 307,
+        "truth1": "Red is considered a warm color in color theory.",
+        "truth2": "Complementary colors are located opposite each other on the color wheel.",
+        "lie": "Blue is actually a shade of purple."
+    },
+    {
+        "id": 308,
+        "truth1": "Red and blue are considered complementary colors in color theory.",
+        "truth2": "Analogous colors are hues that are next to each other on the color wheel.",
+        "lie": "Green is the only color that doesn't have a complementary color."
+    },
+    {
+        "id": 309,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "Blue is considered a warm color in color theory.",
+        "lie": "Mixing blue and yellow paint will always result in green."
+    },
+    {
+        "id": 310,
+        "truth1": "Red and green are complementary colors on the color wheel.",
+        "truth2": "Analogous colors are located next to each other on the color wheel.",
+        "lie": "Yellow is actually a primary color in color theory."
+    },
+    {
+        "id": 311,
+        "truth1": "Color theory is based on the concept of the color wheel.",
+        "truth2": "Analogous colors on the color wheel are located directly across from each other.",
+        "lie": "Primary colors are red, blue, and banana."
+    },
+    {
+        "id": 312,
+        "truth1": "Red and blue are considered primary colors in color theory.",
+        "truth2": "Analogous colors are found next to each other on the color wheel.",
+        "lie": "Mixing yellow and blue together always results in a shade of green."
+    },
+    {
+        "id": 313,
+        "truth1": "Colors can be classified into warm tones, cool tones, and neutral tones.",
+        "truth2": "The color wheel was invented by Sir Isaac Newton in 1666.",
+        "lie": "Red is the only color that cannot be created by mixing other colors together."
+    },
+    {
+        "id": 314,
+        "truth1": "Red and yellow make orange.",
+        "truth2": "Complementary colors are across from each other on the color wheel.",
+        "lie": "Blue is made from mixing red and green."
+    },
+    {
+        "id": 315,
+        "truth1": "Art theory delves into the study of aesthetics and the nature of art itself.",
+        "truth2": "Understanding color theory is crucial for artists to create impactful and harmonious compositions.",
+        "lie": "Some art theorists argue that paintings created by monkeys are just as valid as those created by humans."
+    },
+    {
+        "id": 316,
+        "truth1": "Art theory is a critical examination of the elements and principles of art.",
+        "truth2": "Postmodernism in art theory rejects the idea of a universal truth in aesthetic judgement.",
+        "lie": "The best paintbrush for creating abstract art is a toothbrush."
+    },
+    {
+        "id": 317,
+        "truth1": "Some art theorists argue that the artist's intent is irrelevant to the interpretation of a work.",
+        "truth2": "Critical theory in art often focuses on power dynamics and social hierarchies within the art world.",
+        "lie": "The color red was banned from all Renaissance paintings due to a superstition about its connection to demons."
+    },
+    {
+        "id": 318,
+        "truth1": "Art theory explores the cultural, historical, and philosophical aspects of art.",
+        "truth2": "Semiotics is a branch of art theory that focuses on the study of signs and symbols in art.",
+        "lie": "The color green was banned from all artwork during the 18th century due to its association with envy."
+    },
+    {
+        "id": 319,
+        "truth1": "Color theory in art helps artists understand how colors interact with each other and how they can create different moods in a composition.",
+        "truth2": "The Golden Ratio, also known as the divine proportion, is a mathematical concept that has been used in art and design for centuries to create aesthetically pleasing compositions.",
+        "lie": "Art theory states that the best way to critique a piece of art is to focus solely on the artist's intention and ignore the actual execution of the piece."
+    },
+    {
+        "id": 320,
+        "truth1": "Art theory explores the historical context of artworks.",
+        "truth2": "Color theory examines how different hues interact with one another.",
+        "lie": "Dadaism was a movement dedicated to promoting the traditional values of art."
+    },
+    {
+        "id": 321,
+        "truth1": "Art theory explores the relationship between art and culture.",
+        "truth2": "Art theory originated in Ancient Greece.",
+        "lie": "Art theory is solely focused on the technical aspects of creating art."
+    },
+    {
+        "id": 322,
+        "truth1": "Art theory is the study of the principles and ideas behind artwork creation.",
+        "truth2": "Formalism is a theory that focuses on analyzing the formal elements of art, such as color, composition, and shape.",
+        "lie": "Art theory dates back to ancient times, with Aristotle being one of the earliest known art theorists."
+    },
+    {
+        "id": 323,
+        "truth1": "Art theory seeks to analyze and interpret the meaning and quality of works of art through critical examination.",
+        "truth2": "The Golden Ratio is a mathematical concept often used in art theory to create balanced and aesthetically pleasing compositions.",
+        "lie": "Art theory suggests that the best way to view a painting is by standing on your head to see it upside down."
+    },
+    {
+        "id": 324,
+        "truth1": "Art theory includes concepts such as color theory and perspective.",
+        "truth2": "Many art theorists argue that the Mona Lisa is actually an elaborate self-portrait of Leonardo da Vinci.",
+        "lie": "Pablo Picasso is widely considered to be the inventor of graffiti art."
+    },
+    {
+        "id": 325,
+        "truth1": "Art theory originated in ancient Greece and was heavily influenced by the teachings of Plato and Aristotle.",
+        "truth2": "The color wheel is an essential tool in art theory used to understand the relationships between colors and how they interact with each other.",
+        "lie": "Many famous artists throughout history have admitted to never studying or understanding art theory, relying solely on their intuition and natural talent."
+    },
+    {
+        "id": 326,
+        "truth1": "Art theory originated in ancient Greece with the writings of Plato and Aristotle.",
+        "truth2": "The concept of the \"death of the author\" in art theory suggests that the intentions of the artist are irrelevant to the interpretation of a work.",
+        "lie": "One of the earliest art theorists was a talking goat named Larry who lived in the Renaissance period."
+    },
+    {
+        "id": 327,
+        "truth1": "Art theory seeks to analyze and understand the meaning and interpretation of art.",
+        "truth2": "Two major branches of art theory are formalism and postmodernism.",
+        "lie": "The color blue was banned from all paintings during the Renaissance period."
+    },
+    {
+        "id": 328,
+        "truth1": "Art theory can help viewers understand the deeper meanings in a work of art.",
+        "truth2": "Art theory is a new concept that only emerged in the past decade.",
+        "lie": "Art theory can be subjective and open to interpretation."
+    },
+    {
+        "id": 329,
+        "truth1": "Art theory explores the relationship between art and society.",
+        "truth2": "Understanding color theory is essential for creating visually cohesive artworks.",
+        "lie": "Vincent van Gogh's favorite color was neon pink."
+    },
+    {
+        "id": 330,
+        "truth1": "Art theory can be traced back to ancient Greek philosophy.",
+        "truth2": "Color theory is a fundamental concept in understanding how different colors interact in a composition.",
+        "lie": "The best way to appreciate abstract art is to try and decipher its hidden meanings."
+    },
+    {
+        "id": 331,
+        "truth1": "Color theory is an important aspect of art theory.",
+        "truth2": "Art theory helps us understand the historical and cultural significance of various art movements.",
+        "lie": "Art theory was created by a group of squirrels who were tired of only being appreciated for their nut-gathering skills."
+    },
+    {
+        "id": 332,
+        "truth1": "Art theory examines the psychological impact of color on the viewer.",
+        "truth2": "Postmodernism rejects the notion of originality in art.",
+        "lie": "Abstract expressionism originated in ancient Egypt."
+    },
+    {
+        "id": 333,
+        "truth1": "Art theory is constantly evolving and adapting to new artistic movements.",
+        "truth2": "Color theory plays a significant role in the creation and perception of art.",
+        "lie": "The first art theory was written by Leonardo da Vinci in the 15th century."
+    },
+    {
+        "id": 334,
+        "truth1": "Art theory seeks to analyze and understand the visual elements and principles of art.",
+        "truth2": "Semiotics is a branch of art theory that focuses on studying signs and symbols in art to uncover layers of meaning.",
+        "lie": "Art theory can predict with certainty whether a piece of art will be considered a masterpiece."
+    },
+    {
+        "id": 335,
+        "truth1": "Color theory plays a crucial role in determining the emotional impact of an artwork.",
+        "truth2": "Postmodern art theory emphasizes the importance of individual interpretation and subjectivity.",
+        "lie": "According to ancient Greek art theory, perfection can only be achieved through precise mathematical proportions."
+    },
+    {
+        "id": 336,
+        "truth1": "Art theory explores the relationship between art and culture.",
+        "truth2": "The color wheel was invented in the 14th century by a famous Italian artist.",
+        "lie": "Van Gogh's famous painting \"Starry Night\" was actually inspired by a view from his mental asylum window."
+    },
+    {
+        "id": 337,
+        "truth1": "Art theory examines the historical significance of artwork. ",
+        "truth2": "Abstract expressionism emerged as a response to the atrocities of World War II. ",
+        "lie": "Artists traditionally wear berets as a good luck charm while creating masterpieces."
+    },
+    {
+        "id": 338,
+        "truth1": "Art theory explores the philosophical, psychological, and sociological aspects of art creation and interpretation. ",
+        "truth2": "The color wheel was invented by Leonardo da Vinci in the 16th century.",
+        "lie": "Art theory helps artists understand and articulate the principles behind their creative decisions."
+    },
+    {
+        "id": 339,
+        "truth1": "Art theory seeks to provide explanations and interpretation for the various elements and principles of art.",
+        "truth2": "There is a universal consensus among art theorists regarding the definition and purpose of art.",
+        "lie": "Art theory is rooted in ancient Greek philosophy and has influenced artistic movements throughout history."
+    },
+    {
+        "id": 340,
+        "truth1": "Art theory seeks to analyze and understand the meaning behind artistic creations.",
+        "truth2": "Art theory is solely focused on the technical aspects of creating art, such as brush strokes and color theory.",
+        "lie": "Art theory was first developed by ancient Greek philosophers such as Plato and Aristotle."
+    },
+    {
+        "id": 341,
+        "truth1": "Famous art critic John Berger once said, \"Every image embodies a way of seeing.\" ",
+        "truth2": "The ego involved in art theory can sometimes lead to artists taking themselves too seriously.",
+        "lie": "Color theory has been scientifically proven to impact human emotions and behavior."
+    },
+    {
+        "id": 342,
+        "truth1": "Art theory explores the psychological and emotional impact of color on the viewer.",
+        "truth2": "The concept of the \"white cube\" in art theory refers to the idea of a neutral gallery space that enhances the viewing experience.",
+        "lie": "One prominent art theorist is Dr. Art Vandelay, known for his groundbreaking work on the effects of artistic composition on human behavior."
+    },
+    {
+        "id": 343,
+        "truth1": "Art theory explores the relationship between art and society.",
+        "truth2": "There is a universal set of rules that determine what can be considered \"good\" art.",
+        "lie": "Pablo Picasso was a mathematician before becoming a famous artist."
+    },
+    {
+        "id": 344,
+        "truth1": "Art theory seeks to understand the reasoning behind artistic choices.",
+        "truth2": "Art theory provides a definitive formula for creating a masterpiece.",
+        "lie": "Art theory can influence the way we interpret and appreciate art."
+    },
+    {
+        "id": 345,
+        "truth1": "Art theory encompasses various schools of thought and methodologies for analyzing and interpreting works of art.",
+        "truth2": "The concept of the \"death of the author\" in art theory suggests that the creator's intentions are irrelevant to the meaning of the artwork.",
+        "lie": "One prominent art theorist once proposed that all paintings should be edible to truly engage all the senses."
+    },
+    {
+        "id": 346,
+        "truth1": "Art theory explores the intersection of aesthetics and culture.",
+        "truth2": "Post-modernism in art theory emphasizes subjectivity and the rejection of grand narratives.",
+        "lie": "Art theory originated in ancient Greece with the discourse surrounding beauty and proportion."
+    },
+    {
+        "id": 347,
+        "truth1": "Art theory can be traced back to ancient Greece and the philosopher Plato.",
+        "truth2": "The concept of the \"Death of the Author\" was first introduced by French literary critic Roland Barthes.",
+        "lie": "Art theory originated from a secret underground society of artists who communicated their ideas through coded messages in their paintings."
+    },
+    {
+        "id": 348,
+        "truth1": "Art theory explores the cultural and historical context of artworks.",
+        "truth2": "Art theory provides objective and definitive answers to interpret artworks.",
+        "lie": "Art theory believes that all abstract art is meaningless."
+    },
+    {
+        "id": 349,
+        "truth1": "Art theory explores the relationship between art and society.",
+        "truth2": "The color wheel was invented by Leonardo da Vinci.",
+        "lie": "Renaissance artists believed that proportion and symmetry were essential elements of beauty."
+    },
+    {
+        "id": 350,
+        "truth1": "\"Art theory explores the conceptual framework and methods used to understand, analyze, and interpret works of art.\"",
+        "truth2": "\"Art theory is a recent academic discipline that emerged in the 21st century.\"",
+        "lie": "\"One popular theory in art is that the Mona Lisa is actually a self-portrait of Leonardo da Vinci.\""
+    },
+    {
+        "id": 351,
+        "truth1": "Art theory helps to analyze and interpret visual art.",
+        "truth2": "Understanding the historical context of a piece can greatly enhance its meaning.",
+        "lie": "Art theory has proven that unicorns are the secret inspiration behind all great works of art."
+    },
+    {
+        "id": 352,
+        "truth1": "Art theory can influence how we interpret and understand artwork.",
+        "truth2": "Art theory is solely focused on technical aspects and does not consider emotions or personal experiences.",
+        "lie": "Art theory always provides a definitive answer on the meaning and value of a piece of artwork."
+    },
+    {
+        "id": 353,
+        "truth1": "Art theory can help analyze and understand the cultural and historical context of a work of art.",
+        "truth2": "Abstractionism is a popular art movement focused on accurately depicting reality. ",
+        "lie": "Color theory is the study of how colors interact with each other and how they can be used to create visual interest in a piece of art."
+    },
+    {
+        "id": 354,
+        "truth1": "Art theory explores the psychological impact of color on viewers.",
+        "truth2": "Art theory delves into the historical context of artistic movements.",
+        "lie": "Art theory argues that all art must include at least one llama."
+    },
+    {
+        "id": 355,
+        "truth1": "Minimalist design is characterized by clean lines and simple forms.",
+        "truth2": "Minimalist design often incorporates a neutral color palette.",
+        "lie": "Minimalist design is always cheap to implement."
+    },
+    {
+        "id": 356,
+        "truth1": "Minimalist design emphasizes simplicity and functionality over excess decoration.",
+        "truth2": "Minimalist design often incorporates a neutral color palette with clean lines and open spaces.",
+        "lie": "Minimalist design is all about cluttering every surface with knickknacks and decor."
+    },
+    {
+        "id": 357,
+        "truth1": "Minimalist design often uses a limited color palette.",
+        "truth2": "Minimalist design always includes excessive amounts of clutter.",
+        "lie": "Minimalist design focuses on clean lines and simplicity."
+    },
+    {
+        "id": 358,
+        "truth1": "Minimalist design focuses on simplicity, using clean lines and a limited color palette.",
+        "truth2": "Minimalist design always involves getting rid of all decorations and extraneous elements.",
+        "lie": "Minimalist design requires using every shade of neon available for maximum impact."
+    },
+    {
+        "id": 359,
+        "truth1": "Minimalist design often uses a neutral color palette.",
+        "truth2": "Minimalist design includes intricate patterns and detailed ornamentation.",
+        "lie": "Minimalist design typically incorporates natural materials such as wood and stone."
+    },
+    {
+        "id": 360,
+        "truth1": "Minimalist design focuses on simplicity, functionality, and clean lines.",
+        "truth2": "Minimalist design always involves using only black and white colors.",
+        "lie": "Minimalist design is all about eliminating unnecessary elements and focusing on essential elements to make a powerful visual impact."
+    },
+    {
+        "id": 361,
+        "truth1": "Minimalist design often relies on neutral color palettes.",
+        "truth2": "Minimalist design always includes lots of clutter and decorations.",
+        "lie": "Minimalist design emphasizes simplicity and functionality."
+    },
+    {
+        "id": 362,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design always includes intricate patterns, excessive decorations, and cluttered spaces.",
+        "lie": "Less is more when it comes to minimalist design, with every piece serving a purpose and adding to the overall aesthetic."
+    },
+    {
+        "id": 363,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and the use of neutral colors.",
+        "truth2": "Minimalist design typically incorporates a large amount of clutter and decorative elements.",
+        "lie": "Minimalist design is characterized by a focus on functionality and letting go of unnecessary elements."
+    },
+    {
+        "id": 364,
+        "truth1": "Minimalist design often incorporates clean lines and simple shapes.",
+        "truth2": "Less is more is a common mantra in minimalist design.",
+        "lie": "Minimalist design always uses bright, bold colors."
+    },
+    {
+        "id": 365,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design often incorporates natural materials such as wood, stone, and metal.",
+        "lie": "Minimalist design always includes big, bold, colorful patterns and prints."
+    },
+    {
+        "id": 366,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and ample open space.",
+        "truth2": "Minimalist design only uses neutral colors like white, black, and grey.",
+        "lie": "Minimalist design always includes bold and vibrant patterns."
+    },
+    {
+        "id": 367,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "One key principle of minimalist design is to eliminate all unnecessary elements and focus on functionality.",
+        "lie": "A minimalist design should always include intricate patterns, textures, and excessive decoration to create visual interest."
+    },
+    {
+        "id": 368,
+        "truth1": "Minimalist design focuses on clean lines, open spaces, and simple color palettes.",
+        "truth2": "Less is always more when it comes to minimalist design.",
+        "lie": "When it comes to minimalist design, more is better than less."
+    },
+    {
+        "id": 369,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design is all about removing all elements that are not absolutely essential to the design.",
+        "lie": "Minimalist design is often associated with cluttered and busy patterns."
+    },
+    {
+        "id": 370,
+        "truth1": "Minimalist design prioritizes clean lines, simple color palettes, and clutter-free spaces.",
+        "truth2": "Minimalist design is easy to maintain and requires minimal upkeep compared to more ornate styles.",
+        "lie": "Minimalist design originated in the 18th century when a French king demanded all extravagance be removed from his palace decoration."
+    },
+    {
+        "id": 371,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and the use of negative space.",
+        "truth2": "Minimalist design always incorporates bold, vibrant colors to make a statement.",
+        "lie": "In minimalist design, less is always more."
+    },
+    {
+        "id": 372,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design always involves getting rid of all belongings and living with as little as possible.",
+        "lie": "Minimalist design incorporates a variety of loud patterns and bright colors for a bold statement."
+    },
+    {
+        "id": 373,
+        "truth1": "Minimalist design is characterized by simplicity and clean lines.",
+        "truth2": "Minimalist design often incorporates a limited color palette.",
+        "lie": "Minimalist design always has abundant clutter and chaos."
+    },
+    {
+        "id": 374,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design always involves using only one typeface and avoiding any decorative elements.",
+        "lie": "Minimalist design requires including intricate patterns, detailed textures, and elaborate decorations."
+    },
+    {
+        "id": 375,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and the use of negative space.",
+        "truth2": "Minimalist design is easy to achieve and requires minimal effort to maintain.",
+        "lie": "When it comes to color, minimalist design often incorporates a wide range of bold and bright hues."
+    },
+    {
+        "id": 376,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and uncluttered spaces.",
+        "truth2": "Minimalist design always incorporates bright and bold colors to make a statement.",
+        "lie": "Minimalist design often incorporates natural materials such as wood and stone to create warmth and texture."
+    },
+    {
+        "id": 377,
+        "truth1": "Minimalist design often incorporates clean lines and simple shapes.",
+        "truth2": "Less is more is a key principle of minimalist design.",
+        "lie": "Minimalist design always requires a strict color palette."
+    },
+    {
+        "id": 378,
+        "truth1": "Minimalist design emphasizes simplicity, clean lines, and a clutter-free aesthetic.",
+        "truth2": "Minimalist design typically incorporates a bold and colorful color palette.",
+        "lie": "Minimalist design is all about including as many decorative elements as possible to create a visually interesting space."
+    },
+    {
+        "id": 379,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a lack of clutter.",
+        "truth2": "Minimalist design always involves using only black and white colors.",
+        "lie": "Minimalist design is inspired by the motto \"less is more.\""
+    },
+    {
+        "id": 380,
+        "truth1": "Minimalist design focuses on clean lines, simple color palettes, and a \"less is more\" philosophy.",
+        "truth2": "Minimalist design often incorporates natural materials such as wood, stone, and leather to add warmth and texture to the space.",
+        "lie": "The key to minimalist design is to fill every inch of the room with furniture and decorations to create a cozy and inviting atmosphere."
+    },
+    {
+        "id": 381,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design always involves using only white and black colors.",
+        "lie": "Minimalist design prioritizes function over form."
+    },
+    {
+        "id": 382,
+        "truth1": "Minimalist design focuses on removing unnecessary elements to achieve a more sleek and clean aesthetic.",
+        "truth2": "Minimalist design is characterized by the use of a limited color palette to create a sense of simplicity and clarity.",
+        "lie": "Minimalist design is all about incorporating as many details and decorations as possible to achieve a modern look."
+    },
+    {
+        "id": 383,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design is all about clutter and excessive decoration.",
+        "lie": "Minimalist design often incorporates natural materials such as wood, stone, and metal."
+    },
+    {
+        "id": 384,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette. ",
+        "truth2": "Minimalist design is only suitable for modern and contemporary spaces. ",
+        "lie": "Minimalist design involves cluttering a space with various decorations and knick-knacks."
+    },
+    {
+        "id": 385,
+        "truth1": "Minimalist design focuses on simplicity, functionality, and clean lines.",
+        "truth2": "Less is more when it comes to minimalist design, with an emphasis on negative space.",
+        "lie": "Minimalist design always incorporates a vibrant color palette."
+    },
+    {
+        "id": 386,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design always involves using only one type of font throughout a project.",
+        "lie": "Minimalist design is inspired by the phrase \"less is more.\""
+    },
+    {
+        "id": 387,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "Minimalist design is typically associated with excess ornamentation and intricate details.",
+        "lie": "Minimalist design often incorporates a \"less is more\" philosophy, emphasizing functionality and uncluttered spaces."
+    },
+    {
+        "id": 388,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a limited color palette.",
+        "truth2": "It is important to incorporate a variety of textures and patterns in minimalist design to create visual interest.",
+        "lie": "Minimalist design is all about clutter and excess, striving to create an environment that is serene and uncluttered."
+    },
+    {
+        "id": 389,
+        "truth1": "Minimalist design often features clean lines and simple color palettes.",
+        "truth2": "Minimalist design is always cheap and easy to achieve.",
+        "lie": "Minimalist design is the best choice for hoarders looking to declutter their space."
+    },
+    {
+        "id": 390,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and a neutral color palette.",
+        "truth2": "Minimalist design includes a lot of clutter, intricate patterns, and bright colors.",
+        "lie": "Minimalist design is all about functionality and utility over aesthetics."
+    },
+    {
+        "id": 391,
+        "truth1": "Minimalist design is focused on simplicity and eliminating unnecessary elements.",
+        "truth2": "Minimalist design often features a black, white, and neutral color palette.",
+        "lie": "Minimalist design incorporates elaborate patterns and intricate details."
+    },
+    {
+        "id": 392,
+        "truth1": "Minimalist design focuses on clean lines, simple color palettes, and uncluttered spaces.",
+        "truth2": "Minimalist design is often associated with the phrase \"less is more.\"",
+        "lie": "Minimalist design originated in the 19th century as a reaction against the excesses of the Baroque and Rococo styles."
+    },
+    {
+        "id": 393,
+        "truth1": "Minimalist design focuses on simplicity, clean lines, and minimal use of color. Less is always more in minimalist design.",
+        "truth2": "Minimalist design often incorporates elements of nature, such as natural materials and neutral colors, to bring a sense of calm and serenity to a space.",
+        "lie": "The key to minimalist design is to clutter a space with unnecessary furniture and decorations to create a sleek and uncluttered look."
+    },
+    {
+        "id": 394,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss designers often prioritize function over form for their creations.",
+        "lie": "Swiss design originated in the 19th century with the Swiss Style movement."
+    },
+    {
+        "id": 395,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 19th century with the Swiss Style movement.",
+        "lie": "Swiss design is responsible for the creation of the first digital watch."
+    },
+    {
+        "id": 396,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 19th century.",
+        "lie": "Swiss design is inspired by the natural beauty of the Swiss Alps."
+    },
+    {
+        "id": 397,
+        "truth1": "Swiss design often incorporates clean lines and minimalist elements.",
+        "truth2": "Swiss design always uses bright, bold colors to make a statement.",
+        "lie": "Swiss design is heavily influenced by the principles of functionality and simplicity."
+    },
+    {
+        "id": 398,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss design has its roots in the 19th century Arts and Crafts movement.",
+        "lie": "Swiss designers are required by law to wear a watch at all times."
+    },
+    {
+        "id": 399,
+        "truth1": "Swiss design is known for its emphasis on minimalism and simplicity.",
+        "truth2": "Swiss design originated in the 18th century and has influenced many modern design principles.",
+        "lie": "Swiss design is heavily inspired by underwater basket weaving techniques."
+    },
+    {
+        "id": 400,
+        "truth1": "Swiss design is known for its minimalism and clean lines.",
+        "truth2": "Swiss design often incorporates geometric shapes and bold typography.",
+        "lie": "Swiss design originated in Sweden, not Switzerland."
+    },
+    {
+        "id": 401,
+        "truth1": "Swiss design is known for its minimalist and functional approach. ",
+        "truth2": "Swiss design is heavily influenced by Japanese aesthetics. ",
+        "lie": "Swiss design is responsible for creating the world's first flying car."
+    },
+    {
+        "id": 402,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss design originated in the early 20th century.",
+        "lie": "Swiss design is inspired by chaotic and cluttered visuals."
+    },
+    {
+        "id": 403,
+        "truth1": "Swiss design is known for its minimalism and simplicity.",
+        "truth2": "Swiss design originated in Italy before spreading to Switzerland.",
+        "lie": "Swiss design is heavily influenced by the typography and grid systems."
+    },
+    {
+        "id": 404,
+        "truth1": "Swiss design often incorporates clean lines and minimalism.",
+        "truth2": "Swiss design is known for its use of bold, bright colors.",
+        "lie": "The famous Swiss designer, Lucerne Burdinski, invented the color-wheel system in the 1960s."
+    },
+    {
+        "id": 405,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss design incorporates a lot of bright colors and bold patterns.",
+        "lie": "Swiss design is heavily influenced by the Swiss landscape and environment."
+    },
+    {
+        "id": 406,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 19th century in response to the industrial revolution.",
+        "lie": "Swiss design principles are heavily influenced by the natural landscapes of Switzerland."
+    },
+    {
+        "id": 407,
+        "truth1": "Swiss design is known for its minimalistic and functional approach.",
+        "truth2": "The use of sans-serif typefaces is a common characteristic in Swiss design. ",
+        "lie": "Swiss design originated from ancient Mayan art influences."
+    },
+    {
+        "id": 408,
+        "truth1": "Swiss design is known for its emphasis on minimalism and functionality.",
+        "truth2": "Swiss design was heavily influenced by the Bauhaus school of design.",
+        "lie": "Swiss design incorporates a lot of bright, neon colors."
+    },
+    {
+        "id": 409,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss design often incorporates elements from nature, such as mountains and rivers.",
+        "lie": "Swiss design is heavily influenced by traditional Japanese architecture and design principles."
+    },
+    {
+        "id": 410,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss design originated in the early 20th century and is heavily influenced by the International Typographic Style.",
+        "lie": "Swiss design is based on the idea that more is more, not less."
+    },
+    {
+        "id": 411,
+        "truth1": "Swiss design is known for its minimalist approach and emphasis on functionality.",
+        "truth2": "Swiss design originated in the 18th century and is heavily influenced by Swiss typography.",
+        "lie": "Swiss design is infamous for its use of bright, neon colors and extravagant patterns."
+    },
+    {
+        "id": 412,
+        "truth1": "Swiss design is known for its emphasis on simplicity, minimalism, and functionality.",
+        "truth2": "Swiss design originated in Switzerland in the 1950s and gained popularity in the international design scene.",
+        "lie": "Swiss design is actually inspired by Martian architecture and aesthetics."
+    },
+    {
+        "id": 413,
+        "truth1": "Swiss design is known for its minimalism and clean aesthetic.",
+        "truth2": "Swiss design originated in the 19th century and has influenced many other design movements.",
+        "lie": "Swiss design was inspired by the intricate patterns found in traditional Swiss cheese-making techniques."
+    },
+    {
+        "id": 414,
+        "truth1": "Swiss design emphasizes simplicity, functionality, and precision.",
+        "truth2": "Swiss design is known for its use of bold colors and extravagant patterns.",
+        "lie": "Swiss design was heavily influenced by the Swiss political neutrality during World War II."
+    },
+    {
+        "id": 415,
+        "truth1": "Swiss design is known for its cleanliness, simplicity, and functionality.",
+        "truth2": "Swiss design originated in Sweden in the early 20th century.",
+        "lie": "Swiss design is heavily influenced by the International Typographic Style."
+    },
+    {
+        "id": 416,
+        "truth1": "Swiss design is known for its use of clean lines and minimalist typography.",
+        "truth2": "Swiss design is heavily influenced by Italian Baroque architecture and ornate decorations.",
+        "lie": "Swiss design incorporates a lot of white space and grid systems in its layouts."
+    },
+    {
+        "id": 417,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 19th century.",
+        "lie": "Swiss design is responsible for inventing the color pink."
+    },
+    {
+        "id": 418,
+        "truth1": "Swiss design emphasizes simplicity and functionality.",
+        "truth2": "Swiss design is heavily influenced by traditional Japanese aesthetics.",
+        "lie": "Swiss design is known for its use of bright neon colors."
+    },
+    {
+        "id": 419,
+        "truth1": "Swiss design is known for its clean lines and minimalistic aesthetic.",
+        "truth2": "Swiss design originated in the 19th century with the rise of international typographic style.",
+        "lie": "Swiss design incorporates bright, neon colors in all of its creations."
+    },
+    {
+        "id": 420,
+        "truth1": "Swiss design is characterized by clean lines and minimalist aesthetics.",
+        "truth2": "Swiss design originated in the 19th century and was heavily influenced by modernist art movements.",
+        "lie": "Swiss design is known for its use of bright neon colors and bold patterns."
+    },
+    {
+        "id": 421,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 19th century with the rise of the Basel School of Design.",
+        "lie": "Swiss design is inspired by the colorful and chaotic patterns of Moroccan rugs."
+    },
+    {
+        "id": 422,
+        "truth1": "Swiss design is known for its simplicity and functionality.",
+        "truth2": "The use of grid systems is a common practice in Swiss design.",
+        "lie": "Swiss designers always include cheese-related elements in their designs."
+    },
+    {
+        "id": 423,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Helvetica is a widely used typeface that originated in Switzerland.",
+        "lie": "Swiss designers are required by law to wear polka dot socks while working."
+    },
+    {
+        "id": 424,
+        "truth1": "Swiss design is known for its minimalistic and functional approach.",
+        "truth2": "Swiss designers often integrate geometric shapes and bold typography into their work.",
+        "lie": "Swiss design is best known for its use of neon colors and flashy patterns."
+    },
+    {
+        "id": 425,
+        "truth1": "Swiss design is known for its minimalist aesthetic and emphasis on typography.",
+        "truth2": "Swiss design originated in Italy before spreading to Switzerland in the mid-20th century.",
+        "lie": "Swiss design is inspired by the natural beauty of the Swiss Alps."
+    },
+    {
+        "id": 426,
+        "truth1": "Swiss design is known for its clean and minimalist aesthetic.",
+        "truth2": "Swiss design originated in the 17th century with the rise of the Swiss typography movement. ",
+        "lie": "Swiss design is inspired by nature and the Swiss landscape, incorporating elements such as mountains and Swiss cheese in its designs."
+    },
+    {
+        "id": 427,
+        "truth1": "Swiss design principles often prioritize simplicity and functionality over ornamentation.",
+        "truth2": "Swiss design is known for its use of grid systems to create harmonious layouts.",
+        "lie": "One of the oldest examples of Swiss design can be traced back to the time of the Roman Empire."
+    },
+    {
+        "id": 428,
+        "truth1": "Swiss design prioritizes minimalism and functionality in its aesthetic.",
+        "truth2": "Swiss design is heavily influenced by the vibrant colors and patterns of traditional Swiss folk art.",
+        "lie": "Swiss design is known for its quirky and playful approach to typography."
+    },
+    {
+        "id": 429,
+        "truth1": "Swiss design is known for its clean lines and minimalistic approach.",
+        "truth2": "Swiss design is heavily influenced by Swiss cheese, with holes symbolizing negative space.",
+        "lie": " Swiss design is characterized by its use of bold, vibrant colors and intricate patterns."
+    },
+    {
+        "id": 430,
+        "truth1": "Swiss design is known for its emphasis on minimalism and clean lines.",
+        "truth2": "The color red is often used in Swiss design to represent passion and energy.",
+        "lie": "Swiss design is famous for its intricate floral patterns and ornate decorations."
+    },
+    {
+        "id": 431,
+        "truth1": "Swiss design is known for its clean lines and minimalist aesthetic.",
+        "truth2": "Swiss designers often prioritize functionality and practicality over ornamental decoration.",
+        "lie": "Swiss design was inspired by ancient Mayan architecture and artistic traditions."
+    },
+    {
+        "id": 432,
+        "truth1": "Swiss design is known for its clean, minimalist aesthetic.",
+        "truth2": "Swiss designers often incorporate bold colors and patterns into their work.",
+        "lie": "Swiss designers are required by law to wear a black turtleneck and round glasses while working."
+    },
+    {
+        "id": 433,
+        "truth1": "Swiss design often emphasizes the use of grid systems for layout and composition. ",
+        "truth2": "Swiss design originated in the 18th century. ",
+        "lie": "Swiss designers are required by law to wear neutral colors at all times."
+    },
+    {
+        "id": 434,
+        "truth1": "The Gothic architecture style originated in France during the medieval period.",
+        "truth2": "Art Deco architecture is known for its geometric shapes and extravagant ornamentation.",
+        "lie": "The Modern architecture style is characterized by its use of organic forms and natural materials."
+    },
+    {
+        "id": 435,
+        "truth1": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "truth2": "Art Deco style emerged in the 1920s and features geometric patterns and bold colors.",
+        "lie": "Frank Lloyd Wright designed the Eiffel Tower in Paris."
+    },
+    {
+        "id": 436,
+        "truth1": "Romanesque architecture is characterized by thick walls, rounded arches, and barrel vaults.",
+        "truth2": "Art Deco architecture is known for its geometric shapes, bold colors, and use of expensive materials.",
+        "lie": "Gothic architecture features flying buttresses, ribbed vaults, and simple, minimalist interiors."
+    },
+    {
+        "id": 437,
+        "truth1": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "truth2": "Art Deco style emerged in the 1920s and 1930s, featuring geometric shapes and bold colors.",
+        "lie": "Modern architecture can be traced back to ancient Greece and Rome."
+    },
+    {
+        "id": 438,
+        "truth1": "Art Deco architecture is characterized by geometric shapes and bold colors.",
+        "truth2": "Gothic architecture originated in France in the 12th century and is known for its pointed arches and ribbed vaults.",
+        "lie": "Postmodern architecture is best described as a blend of traditional and contemporary styles."
+    },
+    {
+        "id": 439,
+        "truth1": "Art Deco architecture is known for its use of geometric shapes and bold colors.",
+        "truth2": "The Gothic architectural style originated in 12th-century France.",
+        "lie": "Baroque architecture is known for its simplicity and minimal ornamentation."
+    },
+    {
+        "id": 440,
+        "truth1": "Art Deco architecture is known for its geometric shapes, bold colors, and lavish ornamentation.",
+        "truth2": "The Bauhaus style emphasizes functionality, simplicity, and the use of modern materials.",
+        "lie": "Gothic architecture was named after the Visigoths, a tribe of barbarians that destroyed Rome in 410 AD."
+    },
+    {
+        "id": 441,
+        "truth1": "- The Bauhaus style is known for its clean lines, geometric shapes, and minimalistic design.",
+        "truth2": "- Gothic architecture originated in France in the 12th century and is characterized by its pointed arches and ribbed vaults.",
+        "lie": "Art Deco architecture was inspired by a cheese grater."
+    },
+    {
+        "id": 442,
+        "truth1": "The Gothic architectural style originated in France during the 12th century.",
+        "truth2": "Art Deco architecture was popular in the United States during the 1920s and 1930s.",
+        "lie": "The Taj Mahal in India is an example of Brutalist architecture."
+    },
+    {
+        "id": 443,
+        "truth1": "Art Nouveau architecture often features intricate floral motifs and curved lines.",
+        "truth2": "The Bauhaus style is characterized by simplicity, functionality, and clean lines.",
+        "lie": "Postmodern architecture is known for its emphasis on traditional design elements and adherence to historical styles."
+    },
+    {
+        "id": 444,
+        "truth1": "The Gothic style is characterized by pointed arches and ribbed vaults.",
+        "truth2": "The Bauhaus style originated in Germany in the early 20th century.",
+        "lie": "The Contemporary style is known for its use of bright colors and intricate patterns."
+    },
+    {
+        "id": 445,
+        "truth1": "Baroque architecture is known for its ornate details and dramatic flair.",
+        "truth2": "Modern architecture values simplicity and clean lines.",
+        "lie": "Gothic architecture was inspired by aliens from outer space."
+    },
+    {
+        "id": 446,
+        "truth1": "Art Deco architecture style originated in Paris and became popular in the 1920s and 1930s.",
+        "truth2": "The Bauhaus architecture style focused on the concept of 'form follows function,' emphasizing simplicity and efficiency.",
+        "lie": "Gothic architecture style was primarily known for its bright colors and whimsical shapes."
+    },
+    {
+        "id": 447,
+        "truth1": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "truth2": "Neoclassical architecture draws inspiration from Ancient Greece and Rome.",
+        "lie": "Art Deco architecture originated in the 18th century as a reaction against the formalism of Baroque style."
+    },
+    {
+        "id": 448,
+        "truth1": "Baroque architecture originated in Italy in the late 16th century.",
+        "truth2": "Tudor architecture is characterized by half-timbering and steep gabled roofs that mimic medieval constructions.",
+        "lie": "Postmodern architecture is known for its minimalistic and functional designs that prioritize simplicity and efficiency."
+    },
+    {
+        "id": 449,
+        "truth1": "Romanesque architecture features round arches, thick walls, and sturdy pillars.",
+        "truth2": "Baroque architecture is known for its dramatic use of light and shadow, ornate decoration, and grandeur.",
+        "lie": "Gothic architecture was often referred to as \"the devil's style\" by critics due to its tall, pointed spires and intricate stone carvings."
+    },
+    {
+        "id": 450,
+        "truth1": "The Gothic style was popularized in the 12th century. ",
+        "truth2": "Modern architecture emphasizes minimalism and functionality. ",
+        "lie": "The Victorian era is known for its use of floating castles in designs."
+    },
+    {
+        "id": 451,
+        "truth1": "Art Deco architecture is known for its use of geometric shapes and bold colors.",
+        "truth2": "Baroque architecture features elaborate ornamentation and dramatic lighting effects.",
+        "lie": "Gothic architecture originated in Italy in the 12th century."
+    },
+    {
+        "id": 452,
+        "truth1": "Art Nouveau architecture often features asymmetrical shapes and curved lines.",
+        "truth2": "The Bauhaus movement emphasized the combination of form and function in its designs.",
+        "lie": "Postmodern architecture is known for its simplistic, monochromatic color schemes."
+    },
+    {
+        "id": 453,
+        "truth1": "Gothic architecture originated in France during the 12th century.",
+        "truth2": "Modern architecture prioritizes function over form.",
+        "lie": "Colonial architecture was heavily influenced by ancient Egyptian design."
+    },
+    {
+        "id": 454,
+        "truth1": "The Bauhaus style is known for its emphasis on functionality and minimalism.",
+        "truth2": "Victorian architecture is characterized by intricate detailing and ornamentation.",
+        "lie": "Postmodern architecture was popularized in the 18th century."
+    },
+    {
+        "id": 455,
+        "truth1": "Baroque architecture is known for its ornate decorations and dramatic style.",
+        "truth2": "Frank Lloyd Wright is considered a pioneer of the International style.",
+        "lie": "Art Deco architecture originated in the 17th century."
+    },
+    {
+        "id": 456,
+        "truth1": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "truth2": "Art Deco style is known for its use of geometric shapes and vivid colors.",
+        "lie": "Postmodern architecture incorporates elements of minimalism and simplicity."
+    },
+    {
+        "id": 457,
+        "truth1": "The Bauhaus style emphasizes simplicity and functionality.",
+        "truth2": "Art Deco architecture features bold geometric shapes and lavish ornamentation.",
+        "lie": "Gothic architecture originated in the 17th century."
+    },
+    {
+        "id": 458,
+        "truth1": "Ancient Greek architecture influenced the design of many government buildings in the United States.",
+        "truth2": "The Baroque style is known for its ornate decorations and dramatic effects.",
+        "lie": "The Modernist style originated in the 17th century."
+    },
+    {
+        "id": 459,
+        "truth1": "Art Deco style originated in Paris in the 1920s.",
+        "truth2": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "lie": "Colonial style buildings are known for their neon pink color schemes."
+    },
+    {
+        "id": 460,
+        "truth1": "Baroque architecture is known for its use of dramatic elements such as grandeur and exuberance.",
+        "truth2": "Art Deco architecture is characterized by geometric shapes and bold colors.",
+        "lie": "Gothic architecture was inspired by aliens who visited Earth in the Middle Ages."
+    },
+    {
+        "id": 461,
+        "truth1": "Gothic architecture is characterized by pointed arches and flying buttresses.",
+        "truth2": "Modern architecture prioritizes sleek lines and minimal ornamentation.",
+        "lie": "Baroque architecture is known for its simple and practical design elements."
+    },
+    {
+        "id": 462,
+        "truth1": "The Gothic architecture style is known for its pointed arches and ribbed vaults.",
+        "truth2": "Modern architecture emphasizes simplicity, clean lines, and the use of industrial materials.",
+        "lie": "The Baroque style is characterized by minimalist design and neutral color palettes."
+    },
+    {
+        "id": 463,
+        "truth1": "Romanesque architecture is characterized by thick walls, round arches, and decorative arcading.",
+        "truth2": "Art Deco architecture originated in Paris in the 1920s and combines modernist styles with fine craftsmanship.",
+        "lie": "The Empire State Building in New York City was originally designed to have a revolving restaurant on its top floor."
+    },
+    {
+        "id": 464,
+        "truth1": "Gothic architecture is known for its pointed arches and flying buttresses.",
+        "truth2": "Art Deco architecture emerged in the 1920s and 1930s, characterized by bold geometric shapes and rich colors.",
+        "lie": "Baroque architecture is famous for its simplicity and minimalistic design."
+    },
+    {
+        "id": 465,
+        "truth1": "Romanesque architecture is characterized by thick walls and rounded arches.",
+        "truth2": "Gothic architecture is known for its pointed arches and flying buttresses.",
+        "lie": "Postmodern architecture often incorporates bright pastel colors and whimsical shapes."
+    },
+    {
+        "id": 466,
+        "truth1": "The Bauhaus style originated in Germany in the early 20th century.",
+        "truth2": "Art Deco architecture is known for its use of geometric shapes and lavish ornamentation.",
+        "lie": "Gothic architecture was created during the Renaissance period."
+    },
+    {
+        "id": 467,
+        "truth1": "Art Deco architecture emerged in the 1920s and is characterized by geometric shapes and bold colors.",
+        "truth2": "Tudor architecture is characterized by half-timbering, steeply pitched roofs, and decorative chimneys.",
+        "lie": "The Parthenon in Athens was constructed using advanced 3D printing technology."
+    },
+    {
+        "id": 468,
+        "truth1": "Art Deco architecture is known for its bold geometric shapes and lavish ornamentation.",
+        "truth2": "The Gothic architecture style originated in France in the 12th century and is characterized by pointed arches and ribbed vaults.",
+        "lie": "Postmodern architecture features playful and eclectic designs that often incorporate ironic references to architectural history."
+    },
+    {
+        "id": 469,
+        "truth1": "Art Deco is known for its use of geometric shapes and bold colors.",
+        "truth2": "Baroque architecture is characterized by ornate details and intricate designs.",
+        "lie": "Postmodern architecture incorporates elements of classical architecture with modern technology."
+    },
+    {
+        "id": 470,
+        "truth1": "Art Deco architecture is characterized by geometric shapes, vibrant colors, and ornate decoration.",
+        "truth2": "Gothic architecture originated in France in the 12th century and is known for its pointed arches and flying buttresses.",
+        "lie": "The Taj Mahal is considered an example of Baroque architecture."
+    },
+    {
+        "id": 471,
+        "truth1": "Art Deco architecture is characterized by geometric shapes, bright colors, and the use of materials such as stainless steel and terrazzo.",
+        "truth2": "The Gothic architectural style originated in France and is known for its pointed arches, ribbed vaults, and flying buttresses.",
+        "lie": "Postmodern architecture often incorporates playful elements such as bright colors, humorous details, and exaggerated proportions."
+    },
+    {
+        "id": 472,
+        "truth1": "Victorian architecture is known for its intricate detailing and use of vibrant colors.",
+        "truth2": "Art Deco architecture often features geometric shapes and symmetrical patterns.",
+        "lie": "Postmodern architecture originated in ancient Egypt and was heavily influenced by pharaohs and pyramids."
+    },
+    {
+        "id": 473,
+        "truth1": "The punk fashion movement originated in London in the mid-1970s.",
+        "truth2": "The hippie fashion movement was known for its tie-dye patterns and bell-bottom pants.",
+        "lie": "The disco fashion movement was characterized by minimalist clothing and neutral colors."
+    },
+    {
+        "id": 474,
+        "truth1": "The gothic fashion movement originated in the 1980s.",
+        "truth2": "The flapper style of the 1920s was influenced by the social liberation of women during that time.",
+        "lie": "Vikings were known for their flashy metallic armor on the battlefield."
+    },
+    {
+        "id": 475,
+        "truth1": "The punk fashion movement originated in London in the 1970s.",
+        "truth2": "Renaissance fashion was characterized by ornate and elaborate clothing.",
+        "lie": "Hipsters were known for their love of neon colors and flashy accessories."
+    },
+    {
+        "id": 476,
+        "truth1": "The punk movement originated in the 1970s and was characterized by DIY aesthetics and anti-establishment attitudes.",
+        "truth2": "The flapper movement in the 1920s saw women embracing short hair, loose dresses, and a newfound sense of independence.",
+        "lie": "The medieval fashion movement of the 15th century featured oversized, pointy-toed shoes that were popular among both the wealthy and peasants."
+    },
+    {
+        "id": 477,
+        "truth1": "The flapper style of the 1920s embraced shorter hemlines and looser silhouettes.",
+        "truth2": "The grunge movement of the 1990s popularized plaid shirts and combat boots.",
+        "lie": "The corset trend of the 1800s was inspired by the desire for increased comfort and mobility."
+    },
+    {
+        "id": 478,
+        "truth1": "The punk fashion movement originated in the 1970s in the United States.",
+        "truth2": "The grunge fashion movement gained popularity in the 1990s after being popularized by bands like Nirvana.",
+        "lie": "Bell-bottom jeans were a staple of the Victorian fashion movement in the 19th century."
+    },
+    {
+        "id": 479,
+        "truth1": "The miniskirt was a popular fashion trend in the 1960s.",
+        "truth2": "The color black was commonly associated with the mod fashion movement.",
+        "lie": "Platform shoes were a staple accessory in the 1800s."
+    },
+    {
+        "id": 480,
+        "truth1": "The punk movement originated in the 1970s in London.",
+        "truth2": "Victorian fashion was characterized by corsets and bustles.",
+        "lie": "Flannel shirts were popular in ancient Egypt."
+    },
+    {
+        "id": 481,
+        "truth1": "- The punk movement emerged in the 1970s as a direct response to the political and social climate of the time.",
+        "truth2": "- The flapper movement of the 1920s was characterized by women wearing short skirts, bobbed hair, and engaging in more liberated behavior.",
+        "lie": "- The victorian goth movement championed bright colors, flowy fabrics, and whimsical accessories."
+    },
+    {
+        "id": 482,
+        "truth1": "The flapper style of the 1920s featured drop-waist dresses and bobbed hair. ",
+        "truth2": "The punk movement of the 1970s and 1980s originated in London and embraced DIY, anti-establishment fashion.",
+        "lie": "The hoop skirt trend of the 19th century was considered comfortable and practical for everyday wear."
+    },
+    {
+        "id": 483,
+        "truth1": "The corset was popular in the 16th century.",
+        "truth2": "Punk fashion emerged in the 1970s.",
+        "lie": "Men's skirts were a common trend in the 19th century."
+    },
+    {
+        "id": 484,
+        "truth1": "The boho chic movement originated in the late 1960s and is characterized by free-spirited, bohemian-inspired fashion trends.",
+        "truth2": "The punk fashion movement emerged in the 1970s as a rebellious response to mainstream culture and is known for its edgy and anti-establishment aesthetic.",
+        "lie": "The hipster fashion movement was popularized in the early 2000s and is defined by its blend of vintage, indie, and ironic styles."
+    },
+    {
+        "id": 485,
+        "truth1": "The miniskirt became popular in the 1960s due to the influence of designers like Mary Quant and Andr\u00e9 Courr\u00e8ges.",
+        "truth2": "The punk movement in the 1970s emphasized DIY aesthetics and anti-establishment symbolism.",
+        "lie": "One of the earliest fashion movements was spearheaded by the ancient Egyptians who popularized the use of wigs and headdresses."
+    },
+    {
+        "id": 486,
+        "truth1": "The invention of the sewing machine revolutionized the fashion industry.",
+        "truth2": "The punk movement in the 1970s primarily focused on preppy, conservative styles.",
+        "lie": "The corset was widely embraced during the Renaissance period."
+    },
+    {
+        "id": 487,
+        "truth1": "The grunge fashion movement originated in Seattle in the 1990s.",
+        "truth2": "Coco Chanel popularized the \"little black dress\" in the 1920s.",
+        "lie": "The corset has always been comfortable to wear throughout history."
+    },
+    {
+        "id": 488,
+        "truth1": "The flapper style of the 1920s embraced a more relaxed and rebellious look compared to previous eras.",
+        "truth2": "The grunge movement of the 1990s popularized unkempt and oversized clothing, inspired by the music scene of the time.",
+        "lie": "The fashion movement known as \"pastoral chic\" in the 1960s was characterized by high-waisted bell-bottoms and tie-dye tops."
+    },
+    {
+        "id": 489,
+        "truth1": "Fashion movements are often influenced by social and political events. ",
+        "truth2": "The punk fashion movement was popularized in the 1970s by the band ABBA. ",
+        "lie": "The grunge fashion movement was inspired by the music scene in Seattle in the 1990s."
+    },
+    {
+        "id": 490,
+        "truth1": "The mini skirt was popularized by designer Mary Quant in the 1960s.",
+        "truth2": "The punk fashion movement emerged in the 18th century with rebellious individuals sporting ripped clothing and unconventional hairstyles.",
+        "lie": "The corset was a staple of 19th-century fashion, cinching the waist to create an hourglass figure."
+    },
+    {
+        "id": 491,
+        "truth1": "The flapper style of the 1920s embraced a more relaxed and rebellious look compared to previous eras. ",
+        "truth2": "The grunge movement of the 1990s was heavily influenced by bands like Nirvana and Pearl Jam.",
+        "lie": "High heels were first worn by men in the 17th century as a sign of status and power."
+    },
+    {
+        "id": 492,
+        "truth1": "The flapper style of the 1920s was known for its loose-fitting dresses and short haircuts.",
+        "truth2": "Grunge fashion emerged in the 1990s, characterized by its unkempt look and thrift store attire.",
+        "lie": "Designer labels became popular in the 1800s due to increased demand for luxury goods."
+    },
+    {
+        "id": 493,
+        "truth1": "Dior's New Look revolutionized fashion in the 1950s",
+        "truth2": "Punk fashion emerged in the 1970s as a form of anti-establishment rebellion",
+        "lie": "The term \"grunge\" was coined by a coffee shop owner in Seattle in the 1990s"
+    },
+    {
+        "id": 494,
+        "truth1": "The flapper movement of the 1920s revolutionized women's fashion with its short skirts and bobbed haircuts.",
+        "truth2": "The hippie movement of the 1960s embraced flowing, bohemian-style clothing and embraced a carefree, anti-establishment attitude.",
+        "lie": "The mullet hairstyle was a popular trend during the Renaissance period."
+    },
+    {
+        "id": 495,
+        "truth1": "Boho style originated in the 1960s as a response to the consumerism of the time.",
+        "truth2": "The flapper style of the 1920s was a rebellion against the restrictive clothing of the previous era.",
+        "lie": "The corset was invented in the 18th century specifically for men to wear during battle."
+    },
+    {
+        "id": 496,
+        "truth1": "The flapper style of the 1920s was characterized by short hair and drop-waist dresses.",
+        "truth2": "The punk movement of the 1970s and 1980s embraced ripped clothing and edgy hairstyles.",
+        "lie": "Renaissance fashion included elaborate ruffled collars and puffy sleeves."
+    },
+    {
+        "id": 497,
+        "truth1": "The punk movement originated in the 1970s as a rebellion against mainstream fashion.",
+        "truth2": "The bohemian movement drew inspiration from the hippie culture of the 1960s.",
+        "lie": "The corset was a popular fashion accessory for men during the Renaissance era."
+    },
+    {
+        "id": 498,
+        "truth1": "Punk fashion originated in the 1970s as a rebellion against mainstream fashion trends.",
+        "truth2": "The corset was a popular undergarment during the Victorian era, often worn to achieve a slim waistline.",
+        "lie": "The \"dad bod\" trend in fashion celebrates oversized, shapeless clothing that hides the body's natural curves."
+    },
+    {
+        "id": 499,
+        "truth1": "Fanny packs were a popular accessory in the 1980s.",
+        "truth2": "Punk fashion originated in the United States in the 1970s.",
+        "lie": "Leg warmers were originally invented for dancers in the 1950s."
+    },
+    {
+        "id": 500,
+        "truth1": "Brightly colored socks were a popular trend during the grunge movement.",
+        "truth2": "Platform shoes were a signature look during the disco era. ",
+        "lie": "Corsets were often worn as outerwear in the minimalist movement."
+    },
+    {
+        "id": 501,
+        "truth1": "The New Look movement in the 1950s was characterized by full skirts and tiny waists.",
+        "truth2": "The punk fashion movement in the 1970s originated in London and featured ripped clothing and provocative hairstyles.",
+        "lie": "Alexander McQueen was known for his minimalist approach to fashion design and his focus on classic silhouettes."
+    },
+    {
+        "id": 502,
+        "truth1": "The bohemian fashion movement originated in the early 19th century in France.",
+        "truth2": "The grunge fashion movement gained popularity in the 1990s, inspired by the music scene in Seattle.",
+        "lie": "Pants were invented in ancient Greece specifically for athletes to wear during the Olympic games."
+    },
+    {
+        "id": 503,
+        "truth1": "The minimalist movement in fashion focused on simplicity and clean lines.",
+        "truth2": "The punk movement in fashion initially originated in the 1970s in the United States.",
+        "lie": "Flared pants were popular during the Renaissance era due to their ability to hide extra fabric in case of emergencies."
+    },
+    {
+        "id": 504,
+        "truth1": "The flapper style of the 1920s was influenced by the desire for women to break free from traditional societal constraints.",
+        "truth2": "Punk fashion emerged in the 1970s as a response to consumerism and political unrest.",
+        "lie": "Cavemen used animal skins to create the first known fashion movement."
+    },
+    {
+        "id": 505,
+        "truth1": "The grunge fashion movement originated in Seattle in the 1990s.",
+        "truth2": "The flapper fashion movement emerged in the 1920s as a response to societal changes and the newfound freedom of women.",
+        "lie": "The corset fashion movement gained popularity in the 18th century due to its practicality and comfort."
+    },
+    {
+        "id": 506,
+        "truth1": "The Mod fashion movement originated in London in the late 1950s.",
+        "truth2": "The Hippie fashion movement of the 1960s was heavily influenced by the peace and love ideology.",
+        "lie": "The Punk fashion movement of the 1970s was known for its sophisticated and elegant designs."
+    },
+    {
+        "id": 507,
+        "truth1": "The punk fashion movement originated in the 1970s in London.",
+        "truth2": "The grunge fashion movement was popularized by bands like Nirvana in the 1990s.",
+        "lie": "Fashion movements are always started by fashion designers trying to make a statement."
+    },
+    {
+        "id": 508,
+        "truth1": "\"Corsets were a popular fashion trend during the Victorian era.\"",
+        "truth2": "\"Flannel shirts became a staple in grunge fashion during the 1990s.\"",
+        "lie": "\"High heels were actually invented for men to wear while riding horses.\""
+    },
+    {
+        "id": 509,
+        "truth1": "The flapper style of the 1920s emphasized boyish silhouettes and short haircuts.",
+        "truth2": "The hippie movement of the 1960s embraced bohemian fashion and embraced peace and love.",
+        "lie": "The Victorians popularized crop tops and low-rise jeans in the 19th century."
+    },
+    {
+        "id": 510,
+        "truth1": "- The punk fashion movement originated in the 1970s and was known for its rebellious and anti-establishment attitude.",
+        "truth2": "- The bohemian fashion movement draws inspiration from the free-spirited and artistic lifestyle of the 19th-century bohemians.",
+        "lie": "- The minimalist fashion movement first gained popularity in the 18th century among French aristocrats."
+    },
+    {
+        "id": 511,
+        "truth1": "The mod movement of the 1960s in Britain placed a strong emphasis on geometric shapes and bold colors.",
+        "truth2": "The grunge fashion movement of the 1990s was characterized by flannel shirts, ripped jeans, and combat boots.",
+        "lie": "The ancient Egyptians were known for their love of Crocs and fanny packs."
+    },
+    {
+        "id": 512,
+        "truth1": "The grunge fashion movement originated in the Pacific Northwest in the 1990s.",
+        "truth2": "The hippie fashion movement was heavily influenced by the counterculture of the 1960s.",
+        "lie": "Bell-bottom jeans were first popularized in ancient Rome."
+    }
+]

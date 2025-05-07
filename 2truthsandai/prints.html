@@ -3,95 +3,95 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <title>2Truths&AI</title>
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
-
   <style>
-    body {
+    
+    h4 {
       margin: 0;
-      padding: 0;
+      background-color: #EDEDED;
+      font-family: 'Inconsolata', monospace; 
+      font-weight: bolder;
+      color: #FF2626;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    h3 {
+      margin: 0;
       background-color: #EDEDED;
       font-family: 'Inconsolata', monospace;
       color: #FF2626;
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 60px 20px;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    body {
+      margin: 0;
+      background-color: #EDEDED;
+      font-family: 'Inconsolata', monospace;
+      color: #000000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       text-align: center;
     }
 
     #topNav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      width: 100%;
       padding: 24px;
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      background-color:#EDEDED;
+      background-color: #EDEDED;
       z-index: 1000;
     }
 
     .link {
       position: fixed;
-      padding: 8px;
+      padding: 10px;
       color: #FF2626;
       text-decoration: none;
+      border-radius: 5px;
       font-weight: bold;
-      display: block;
-      font-family: 'Inconsolata', monospace;
+      font-family: 'Inconsolata', sans-serif;
       z-index: 1000;
-      background-color: #EDEDED;
-
     }
 
-    .top-left { top: 10px; left: 10px; }
-    .top-right { top: 10px; right: 10px; }
-    .bottom-left { bottom: 10px; left: 10px; }
-    .bottom-right { bottom: 10px; right: 10px; }
 
+    .top-left    { position: fixed; top: 10px; left: 10px; }
+    .top-right   { position: fixed; top: 10px; right: 10px; }
+    .bottom-left { position: fixed; bottom: 10px; left: 10px; }
+    .bottom-right{ position: fixed; bottom: 10px; right: 10px; }
 
-    p {
-      font-size: 14px;
-      color: #333;
-      line-height: 1.6;
-      margin: 0 auto 12px;
+    .eye-container {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-top: 60px;
     }
 
-    /* Container for all print items */
-.print-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 32px;
-  justify-content: center;
-  padding: 20px;
-  gap: 20px;
-}
-
-  /* Responsive mobile layout */
-  @media (max-width: 600px) {
     .print-gallery {
-      flex-direction: column;
-      align-items: center;
-      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 32px;
+      justify-content: center;
+      margin-top: 50px;
+      margin-bottom: 50px;
     }
-
-    .print-item {
-      width: 100%;
-      max-width: 90%;
-    }
-}
 
     .print-item {
       text-align: center;
       max-width: 300px;
       background: #EDEDED;
       border: 1px solid #FF2626;
-      gap: 20px;
       padding: 15px;
-      border-radius: 3px;
+      border-radius: 4px;
       transition: transform 0.2s ease;
     }
 
@@ -102,27 +102,60 @@
     .print-item img {
       max-width: 100%;
       border-radius: 8px;
-      height: auto;
+      cursor: pointer;
     }
 
-    .print-item h3 {
-      margin-top: 15px;
-      font-size: 1.2rem;
+    .print-item h4 {
+      margin: 12px 0 6px;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw; height: 100vh;
+      background-color: rgba(237, 237, 237, 0.6);
+      justify-content: center;
+      align-items: center;
+      z-index: 2000;
+      transition: opacity 0.3s ease;
+    }
+
+    .modal.show {
+      display: flex;
+    }
+
+    .modal-content {
+      max-width: 80vw;
+      max-height: 80vh;
+      border-color: #FF2626;
+      border-radius: 1px;
+      z-index: 2001;
+    }
+
+    .nav-arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 3rem;
       color: #FF2626;
+      cursor: pointer;
+      z-index: 2002;
+      user-select: none;
     }
 
-    .print-item p {
-      font-size: 0.95rem;
-      color: #666;
-      margin-top: 5px;
+    .nav-arrow.left {
+      left: 5%;
     }
 
-    /* Mobile Responsive Layout */
+    .nav-arrow.right {
+      right: 5%;
+    }
+
     @media (max-width: 600px) {
       .print-gallery {
         flex-direction: column;
         align-items: center;
-        padding: 20px;
       }
 
       .print-item {
@@ -130,18 +163,8 @@
         max-width: 90%;
       }
     }
-    .eye-container {
-      display: flex;
-      gap: 20px; /* Adjust spacing between images */
-      justify-content: center;
-      align-items: center;
-      margin: 20px 0;
-      margin-top: 20;
-    }
-
   </style>
 </head>
-
 <body>
 
   <div class="eye-container">
@@ -149,37 +172,73 @@
     <img src="eye.webp" width="50" alt="Eyes animation" />
   </div>
 
-  <!-- Top Navigation Bar -->
+  <!-- Navigation -->
   <div id="topNav">
     <a href="index.html" class="link top-left">prints ✕</a>
     <a href="https://marywildesign.com" class="link bottom-left">made by mary</a>
     <a href="about.html" class="link top-right">rules</a>
     <a href="generate.html?start=true" class="link bottom-right">play →</a>
-    
   </div>
 
-  <h3>2Truths&AI</h4>
-  <p>Which print is the 'liar'? </p>
+  <!-- Intro Text -->
+  <h3>2Truths&AI</h3>
+  <p>One is AI. Which print is the 'liar'? DM for purchase.</p>
 
- 
+  <!-- Gallery -->
   <div class="print-gallery">
     <div class="print-item">
-      <img src="joker.png" width="300" alt="The Joker">
-      <h4>the joker</h4>
-      <p>A3, riso, 00NOK</p>
+      <img src="thejoker.png" alt="The Joker" onclick="openModal('thejoker.png')">
+      <h4><strong>the joker</strong></h4>
+      <p>A3, riso / gloss, 100NOK / 50NOK</p>
     </div>
-
     <div class="print-item">
-      <img src="pants.png" width="300" alt="Pants on Fire">
-      <h4>pants on fire</h4>
-      <p> A3, riso, 00NOK</p>
+      <img src="mahjong.png" alt="Mahjong" onclick="openModal('mahjong.png')">
+      <h4><strong> mahjong</h4></strong> </h4>
+      <p>A3, riso / gloss, 100NOK / 50NOK</p>
     </div>
-
     <div class="print-item">
-      <img src="nose.png" width="300" alt="Nose Growth">
-      <h4>the growth of truth</h4>
-      <p>A3, riso, 00NOK</p>
+      <img src="lieswetell.png" alt="Lies We Tell" onclick="openModal('lieswetell.png')">
+      <h4><strong> lies we tell</strong></h4>
+      <p>A3, riso / gloss, 100NOK / 50NOK</p>
     </div>
   </div>
+
+  <!-- Modal -->
+  <div id="imgModal" class="modal" onclick="closeModal(event)">
+    <span class="nav-arrow left" onclick="prevImage(event)">←</span>
+    <img class="modal-content" id="modalImg" />
+    <span class="nav-arrow right" onclick="nextImage(event)">→</span>
+  </div>
+
+  <!-- JavaScript -->
+  <script>
+    const images = ['thejoker.png', 'mahjong.png', 'lieswetell.png'];
+    let currentIndex = 0;
+
+    function openModal(src) {
+      currentIndex = images.indexOf(src);
+      document.getElementById("modalImg").src = src;
+      document.getElementById("imgModal").classList.add("show");
+    }
+
+    function closeModal(event) {
+      if (event.target.id === "imgModal") {
+        document.getElementById("imgModal").classList.remove("show");
+      }
+    }
+
+    function nextImage(event) {
+      event.stopPropagation();
+      currentIndex = (currentIndex + 1) % images.length;
+      document.getElementById("modalImg").src = images[currentIndex];
+    }
+
+    function prevImage(event) {
+      event.stopPropagation();
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      document.getElementById("modalImg").src = images[currentIndex];
+    }
+  </script>
+
 </body>
 </html>
