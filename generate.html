@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #EDEDED;
+      font-family: 'Inconsolata', sans-serif;
+      color: #FF2626;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+  
+
+    #topNav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      padding: 30px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background-color:transparent;
+      z-index: 1000;
+    }
+
+
+    .link {
+      position: fixed;
+      padding: 10px;
+      color: #FF2626;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-family: 'Inconsolata', sans-serif;
+      z-index: 1000;
+    }
+
+    .top-left { top: 10px; left: 10px; }
+    .top-right { top: 10px; right: 10px; }
+    .bottom-left { bottom: 10px; left: 10px; }
+    .bottom-right { bottom: 10px; right: 10px; }
+
+    .container {
+      text-align: center;
+      padding: 40px 20px;
+      margin-top: 120px;
+      max-width: 700px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      letter-spacing: 1px;
+    }
+
+    p {
+      font-size: 18px;
+      color: #333;
+      margin-bottom: 30px;
+    }
+    
+    .game-button {
+      display: block;
+      width: 100%;
+      max-width: 400px;
+      min-height: 60px;
+      margin: 10px auto;
+      padding: 14px 14px;
+      font-size: 14px;
+      font-family: 'Inconsolata', sans-serif;
+      text-transform: lowercase;
+      border: 1px solid #007BFF;
+      color: #007BFF;
+      background: none;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .start-button {
+    padding: 8px 12px !important; /* tighter padding */
+    min-height: auto; 
+    color: #007BFF;
+    background-color: #EDEDED;
+    font-family: 'Inconsolata', sans-serif;}
+
+
+
+    .game-button:hover {
+      background-color: #007BFF;
+      color: #EDEDED;
+      border-color: #007BFF;
+    }
+
+    .game-button.correct {
+      background-color: #007BFF;
+      color: #EDEDED;
+      border-color: #007BFF;
+    }
+
+    .game-button.wrong {
+      background-color: #EDEDED;
+      color: #000000;
+      border-color: #CCCCCC;
+    }
+
+
+    #feedback {
+      font-size: 18px;
+      margin-top: 20px;
+      height: 24px;
+      color: #333;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 16px;
+      }
+
+      .link {
+        font-size: 14px;
+        padding: 8px;
+      }
+
+      .game-button {
+        font-size: 14px;
+        min-height: 70px;
+      }
+    }
+
+    .eye-container {
+      display: flex;
+      gap: 20px; /* Adjust spacing between images */
+      justify-content: center;
+      align-items: center;
+      margin: 20px 0;
+      margin-top: 20;
+}
+
+  </style>
+</head>
+<body>
+
+  <div class="eye-container">
+    <img src="eye.webp" width="50" alt="Eyes animation" />
+    <img src="eye.webp" width="50" alt="Eyes animation" />
+  </div>
+  
+
+  <!-- Top Navigation Bar -->
+  <div id="topNav">
+    <a href="prints.html" class="link top-left">prints</a>
+    <a href="https://marywildesign.com" class="link bottom-left">made by mary</a>
+    <a href="about.html" class="link top-right">rules</a>
+    <a href="index.html" class="link bottom-right">don't play ✕</a>
+    
+  </div>
+
+
+  <!-- Game Content -->
+  <div class="container">
+    
+    <div id="buttonContainer">
+        <h2 id="prompt">can you beat AI?</h2>
+        <h5>(prints avail for sale, hmu)</h5>
+        <button id="startButton" class="begin">begin</button>
+    </div>  
+
+  <script>
+    function startGame() {
+  const prompt = document.getElementById('prompt');
+  if (prompt) prompt.style.display = 'none';
+  const buttonContainer = document.getElementById('buttonContainer');
+  if (buttonContainer) {
+    buttonContainer.innerHTML = '';
+    generateButtonsWithRandomText();
+  }
+}
+
+// Start automatically if ?start=true is in the URL
+window.addEventListener('DOMContentLoaded', () => {
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('start') === 'true') {
+    startGame();
+  } else {
+    // fallback: start button manual click
+    const startBtn = document.getElementById('startButton');
+    if (startBtn) {
+      startBtn.onclick = startGame;
+    }
+  }
+});
+
+
+    
+    async function fetchRandomEntry() {
+            const response = await fetch('data.json')
+            const data  = await response.json()
+            const randomIndex = Math.floor(Math.random() * data.length)
+            const x = data[randomIndex];
+            console.log(x);
+
+            const fieldsArray = [x.truth1, x.truth2, x.lie];
+            return fieldsArray;
+        }
+
+
+    async function generateButtonsWithRandomText() {
+      const buttonContainer = document.getElementById('buttonContainer');
+      buttonContainer.innerHTML = '';
+      const randomEntries = await fetchRandomEntry();
+
+      const order = [0, 1, 2].sort(() => Math.random() - 0.5);
+      const lieIndex = order.indexOf(2);
+      const randomEntries1 = order.map(index => randomEntries[index]);
+
+      const buttons = randomEntries1.map((entry, index) => {
+        const btn = document.createElement('button');
+        btn.textContent = entry;
+        btn.className = 'game-button';
+
+        btn.onclick = () => {
+          if (index === lieIndex) {
+            const lieLabel = document.createElement('div');
+            lieLabel.textContent = 'LIE';
+            lieLabel.style.color = 'red';
+            buttonContainer.appendChild(lieLabel);
+          } else {
+            const trueLabel = document.createElement('div');
+            trueLabel.textContent = 'TRUE';
+            trueLabel.style.color = 'green';
+            buttonContainer.appendChild(trueLabel);
+          }
+          setTimeout(generateButtonsWithRandomText, 1000);
+        };
+
+        return btn;
+      });
+
+      buttons.forEach(button => buttonContainer.appendChild(button));
+    }
+  </script>
+</body>
+</html>
