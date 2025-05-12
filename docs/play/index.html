@@ -164,17 +164,17 @@
 <body>
 
   <div class="eye-container">
-    <img src="../images/eye.webp" width="50" alt="Eyes animation" />
-    <img src="../images/eye.webp" width="50" alt="Eyes animation" />
+    <img src="./images/eye.webp" width="50" alt="Eyes animation" />
+    <img src="./images/eye.webp" width="50" alt="Eyes animation" />
   </div>
   
 
   <!-- Top Navigation Bar -->
   <div id="topNav">
-    <a href="/prints/" class="link top-left">prints</a>
+    <a href="./prints/" class="link top-left">prints</a>
     <a href="https://marywildesign.com" class="link bottom-left">made by mary</a>
-    <a href="/about/" class="link top-right">rules</a>
-    <a href="/docs/" class="link bottom-right">don't play ✕</a>
+    <a href="./about/" class="link top-right">rules</a>
+    <a href="./docs/" class="link bottom-right">don't play ✕</a>
     
   </div>
 
@@ -216,7 +216,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     
     async function fetchRandomEntry() {
-            const response = await fetch('../chatgpt/data.json')
+            const response = await fetch('./data.json')
             const data  = await response.json()
             const randomIndex = Math.floor(Math.random() * data.length)
             //console.log(data.length)
