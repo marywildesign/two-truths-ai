@@ -219,6 +219,7 @@ window.addEventListener('DOMContentLoaded', () => {
             const response = await fetch('data.json')
             const data  = await response.json()
             const randomIndex = Math.floor(Math.random() * data.length)
+            console.log(data)
             const x = data[randomIndex];
             console.log(x);
 
