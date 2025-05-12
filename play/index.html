@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/svg+xml" href="favi.svg">
+  <link rel="icon" type="image/svg+xml" href="../images/favi.svg">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
@@ -80,7 +80,7 @@
       min-height: 60px;
       margin: 10px auto;
       padding: 14px 14px;
-      font-size: 14px;
+      font-size: 16px;
       font-family: 'Inconsolata', sans-serif;
       text-transform: lowercase;
       border: 1px solid #007BFF;
@@ -245,7 +245,7 @@ window.addEventListener('DOMContentLoaded', () => {
         btn.onclick = () => {
           // Disable all buttons to block further clicks
           buttons.forEach(b => b.disabled = true);
-                    
+
           if (index === lieIndex) {
             const lieLabel = document.createElement('div');
             lieLabel.textContent = 'LIE';
