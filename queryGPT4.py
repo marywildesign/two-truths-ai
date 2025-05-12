@@ -5,7 +5,7 @@ import openai as oai
 import os
 import textwrap
 
-key = open('../key.txt','r').readlines()[0]
+key = open('../.key.txt','r').readlines()[0]
 oai.api_key = key
 
 if not os.path.isdir('./gpt-outputs/'):
