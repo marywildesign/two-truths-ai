@@ -243,6 +243,9 @@ window.addEventListener('DOMContentLoaded', () => {
         btn.className = 'game-button';
 
         btn.onclick = () => {
+          // Disable all buttons to block further clicks
+          buttons.forEach(b => b.disabled = true);
+                    
           if (index === lieIndex) {
             const lieLabel = document.createElement('div');
             lieLabel.textContent = 'LIE';
